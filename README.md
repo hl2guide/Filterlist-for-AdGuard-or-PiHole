@@ -1,6 +1,6 @@
 # Filterlist for AdGuard 1.0
 
-![Logo](https://images2.imgbox.com/f7/d1/eTBopT91_o.png)
+![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
 A filterlist that consolidates 58 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
