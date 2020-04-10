@@ -1,1 +1,2 @@
-# Filterlist-for-AdGuard
+# Filterlist for AdGuard 1.0
+
