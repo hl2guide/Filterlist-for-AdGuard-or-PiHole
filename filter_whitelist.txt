@@ -1,0 +1,13 @@
+@@||aka.ms^$important
+@@||au.download.windowsupdate.com^$important
+@@||crapblock.theel0ja.info^$important
+@@||ctldl.windowsupdate.com^$important
+@@||dc.services.visualstudio.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+@@||download.windowsupdate.com^$important
+@@||guts2.sp.f-secure.com^$important
+@@||localhost.megasyncloopback.mega.nz^$important
+@@||login.live.com^$important
+@@||slscr.update.microsoft.com^$important
+@@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
+@@||update.code.visualstudio.com^$important
