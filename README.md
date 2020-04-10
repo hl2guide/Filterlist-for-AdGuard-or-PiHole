@@ -6,7 +6,7 @@ A filterlist that consolidates 58 lists for use in AdGuard Home (https://github.
 
 Blocks many ads, affiliates, analytics, enrichments, widgets and trackers.
 
-Also blocks crypto-locker, drug, fake, fake news, phishing, ransomware, scam, spam, suspicious, typosquatting, websites.
+Also blocks crypto-locker, drug, fake, fake news, phishing, ransomware, scam, spam, suspicious, and typosquatting websites.
 
 It includes the official **AdGuardSDNSFilter**.
 
