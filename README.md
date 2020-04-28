@@ -2,7 +2,7 @@
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
-A filterlist that consolidates 58 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
+A filterlist that consolidates 56 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
 Blocks many ads, affiliates, analytics, enrichments, widgets and trackers.
 
