@@ -9,6 +9,9 @@ A filterlist that consolidates 56 lists for use in AdGuard Home (https://github.
 * The final blocklist is sorted, duplicates have been removed and some cleanup has been done
 * It includes the official **AdGuardSDNSFilter**
 
+_Please Note: The list is aggressive so please ensure that you add your own "Custom filtering rules" for lists you want to allow.
+e.g: @@||nexusmods.com^$important_
+
 ## Usage
 
 Once you have AdGuard Home ready and are logged in, use it's main menu to add one blocklist and one allowlist.
