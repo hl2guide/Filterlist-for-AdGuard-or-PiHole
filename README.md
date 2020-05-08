@@ -4,15 +4,14 @@
 
 A filterlist that consolidates 56 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
-Blocks many ads, affiliates, analytics, enrichments, widgets and trackers.
-
-Also blocks crypto-locker, drug, fake, fake news, phishing, ransomware, scam, spam, suspicious, and typosquatting websites.
-
-It includes the official **AdGuardSDNSFilter**.
+* Blocks many ads, affiliates, analytics, enrichments, widgets and trackers
+* Blocks crypto-locker, drug, fake, fake news, phishing, ransomware, scam, spam, suspicious, and typosquatting websites
+* The final blocklist is sorted, duplicates have been removed and some cleanup has been done
+* It includes the official **AdGuardSDNSFilter**
 
 ## Usage
 
-Once you have AdGuard ready and are logged in, use it's main menu to add one blocklist and one allowlist.
+Once you have AdGuard Home ready and are logged in, use it's main menu to add one blocklist and one allowlist.
 
 ![menu](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/example%20menu.PNG "Menu")
 
