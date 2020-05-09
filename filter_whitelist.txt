@@ -15,7 +15,6 @@
 @@||free.hitnews.com^$important
 @@||guts2.sp.f-secure.com^$important
 @@||hcaptcha.com^$important
-@@||hcaptcha.com^$important
 @@||localhost.megasyncloopback.mega.nz^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
