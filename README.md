@@ -14,7 +14,9 @@ e.g: @@||nexusmods.com^$important_
 
 ## Usage
 
-Once you have AdGuard Home ready and are logged in, use its main menu to add one blocklist and one allowlist.
+Check that you are using __AdGuard Home v0.102.0__ or later.
+
+Once you have __AdGuard Home__ ready and are logged in, use its main menu to add one __blocklist__ and one __allowlist__.
 
 ![menu](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/example%20menu.PNG "Menu")
 
