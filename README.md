@@ -1,4 +1,4 @@
-# Filterlist for AdGuard 1.0
+# Filterlist for AdGuard
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
