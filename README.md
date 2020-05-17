@@ -32,6 +32,12 @@ https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_
 
 ![menu](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/example%20whitelist.PNG "Whitelist")
 
+### Filters Update Interval
+
+You can modify how often filter lists are updated within Adguard in the __Settings__ > __General Settings__ page.
+
+Set "Filters update interval" to 1 hour and click the green "Save" button. This list updates about every 6 hours.
+
 ## Credits ☺️
 
 Full credit for the actual blocking ability goes to original list creators and maintainers.
