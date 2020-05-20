@@ -13,6 +13,7 @@
 @@||download.windowsupdate.com^$important
 @@||elb-ore-amz.nimbus.bitdefender.net^$important
 @@||free.hitnews.com^$important
+@@||gfwsl.geforce.com^$important
 @@||guts2.sp.f-secure.com^$important
 @@||hcaptcha.com^$important
 @@||localhost.megasyncloopback.mega.nz^$important
