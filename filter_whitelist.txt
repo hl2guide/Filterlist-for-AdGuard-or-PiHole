@@ -18,12 +18,17 @@
 @@||localhost.megasyncloopback.mega.nz^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
+@@||netflix.com$important
 @@||nexusmods.com^$important
+@@||paypal.com^$important
 @@||privacy.microsoft.com^$important
 @@||sirius.mwbsys.com^$important
 @@||slscr.update.microsoft.com^$important
+@@||standardnotes.org^$important
+@@||teams.microsoft.com^$important
 @@||telemetry.malwarebytes.com^$important
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
 @@||update.code.visualstudio.com^$important
 @@||upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net^$important
+@@||virustotal.com^$important
 @@||vortex.data.microsoft.com^$important
