@@ -38,6 +38,14 @@ You can modify how often filter lists are updated within Adguard Home in the __S
 
 Set "Filters update interval" to 1 hour and click the green "Save" button. This list updates about every 6 hours.
 
+## Suggestions
+
+Do you have a new host list you'd like to suggest?
+
+Please first check that the list does not already exist in : https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_list_URLs.txt
+
+Then create a new GitHub issue with the prefix "[add host list]" if it's new.
+
 ## Credits ☺️
 
 Full credit for the actual blocking ability goes to original list creators and maintainers.
