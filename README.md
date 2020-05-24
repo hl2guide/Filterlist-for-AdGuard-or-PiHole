@@ -12,7 +12,7 @@ A filterlist that consolidates 56 lists for use in AdGuard Home (https://github.
 _Please Note: The list is aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
 e.g: @@||nexusmods.com^$important_
 
-## Usage
+## Usage 📐
 
 Check that you are using __AdGuard Home v0.102.0__ or later.
 
@@ -20,25 +20,25 @@ Once you have __AdGuard Home__ ready and are logged in, use its main menu to add
 
 ![menu](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/example%20menu.PNG "Menu")
 
-### Blocklist
+### Blocklist 🛑
 
 https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt
 
 ![menu](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/example%20blocklist.PNG "Blocklist")
 
-### Allowlist
+### Allowlist ✅
 
 https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_whitelist.txt
 
 ![menu](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/example%20whitelist.PNG "Whitelist")
 
-### Filters Update Interval
+### Filters Update Interval ⏱
 
 You can modify how often filter lists are updated within Adguard Home in the __Settings__ > __General Settings__ page.
 
 Set "Filters update interval" to 1 hour and click the green "Save" button. This list updates about every 6 hours.
 
-## Suggestions
+## Suggestions 📌
 
 Do you have a new host list you'd like to suggest?
 
