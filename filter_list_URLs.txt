@@ -11,8 +11,10 @@ https://blocklist.site/app/dl/scam
 https://blocklist.site/app/dl/spam
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
-https://hosts-file.net/ad_servers.txt
 https://phishing.army/download/phishing_army_blocklist.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
+https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 https://raw.githubusercontent.com/PebbleOG/pihole-regex/master/regex.list
 https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsites/master/steamscamsite.txt
@@ -21,6 +23,7 @@ https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Blocklist.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Yahoo_Ad_Servers.txt
 https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/regex.list
 https://raw.githubusercontent.com/aounakram/my-pihole-lists/master/regex.list
+https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Australia.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/UnitedKingdom.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/UnitedStatesofAmerica.txt
@@ -29,7 +32,6 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker81.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Yhonay-AntiPopAds.txt
 https://raw.githubusercontent.com/eternnoir/pihole-regex.list/master/regex.list
-https://raw.githubusercontent.com/evpne/socialblocklists/master/MobileAppsAds/appadsblocklist.txt
 https://raw.githubusercontent.com/evpne/socialblocklists/master/Skype/skypeblocklist.txt
 https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
 https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/evil-domains.txt
@@ -43,7 +45,7 @@ https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosqua
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
-https://raw.githubusercontent.com/mkb2091/blockconvert/master/blacklist.txt
+https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
 https://raw.githubusercontent.com/revolveruk30/pihole_regex/master/regex.list
 https://raw.githubusercontent.com/soteria-nou/domain-list/master/ads.txt
