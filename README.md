@@ -54,6 +54,6 @@ Thanks so much for their tireless work! :D
 
 ## Filter Lists 🗂️
 
-56 lists are included:
+Included Lists are:
 
 <https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_list_URLs.txt>
