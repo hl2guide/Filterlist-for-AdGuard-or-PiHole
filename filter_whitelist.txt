@@ -21,6 +21,7 @@
 @@||login.microsoftonline.com^$important
 @@||netflix.com$important
 @@||nexusmods.com^$important
+@@||oo-software.com^$important
 @@||paypal.com^$important
 @@||privacy.microsoft.com^$important
 @@||sirius.mwbsys.com^$important
