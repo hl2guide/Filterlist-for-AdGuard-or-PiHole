@@ -10,6 +10,7 @@
 @@||avatars3.githubusercontent.com^$important
 @@||az764295.vo.msecnd.net^$important
 @@||azure.microsoft.com^$important
+@@||b.cdnst.net^$important
 @@||bifrost.vivaldi.com^$important
 @@||bing.com^$important
 @@||bitdefender.net^$important
