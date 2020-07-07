@@ -1,4 +1,4 @@
-http://www.joewein.net/dl/bl/dom-bl.txt
+https://abp.oisd.nl
 https://adaway.org/hosts.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://blocklist.site/app/dl/ads
@@ -25,7 +25,6 @@ https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Blocklist.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole_HOSTS_Spyware.txt
-https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Yahoo_Ad_Servers.txt
 https://raw.githubusercontent.com/angelics/pfbng/master/ads/ads-domain-list.txt
 https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/regex.list
 https://raw.githubusercontent.com/aounakram/my-pihole-lists/master/regex.list
@@ -43,7 +42,6 @@ https://raw.githubusercontent.com/eternnoir/pihole-regex.list/master/regex.list
 https://raw.githubusercontent.com/evpne/socialblocklists/master/Skype/skypeblocklist.txt
 https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt
 https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
-https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
 https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/evil-domains.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/advertisement.txt
 https://raw.githubusercontent.com/hemiipatu/Blocklists/master/phishing.txt
@@ -54,6 +52,7 @@ https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt
 https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosquatting_blocklist.txt
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt
+https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/Hosts/malware
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
@@ -70,4 +69,5 @@ https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspici
 https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/regex.list
-https://www.threatcrowd.org/feeds/domains.txt
+https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
+https://threatcrowd.org/feeds/domains.txt
