@@ -1,4 +1,4 @@
-# Filterlist for AdGuard 2.0
+# Filterlist for AdGuard 2.1
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
@@ -12,7 +12,7 @@ An aggressive filter-list that consolidates over 70 lists for use in AdGuard Hom
 _Please Note: The list is aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
 e.g: @@||nexusmods.com^$important_
 
-As of version 2.0 the list is more cleaned up, optimized and better than ever.
+As of version 2.1 the list is more cleaned up, optimized and better than ever.
 
 ## Usage 📐
 
