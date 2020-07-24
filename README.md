@@ -16,7 +16,7 @@ As of version 2.1 the list is more cleaned up, optimized and better than ever.
 
 ## Usage 📐
 
-Check that you are using __AdGuard Home v0.102.0__ or later.
+Check that you are using __AdGuard Home v0.103.2__ or later.
 
 Once you have __AdGuard Home__ ready and are logged in, use its main menu to add one __blocklist__ and one __allowlist__.
 
