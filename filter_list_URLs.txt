@@ -16,6 +16,16 @@ https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Mining%20pa
 https://raw.githubusercontent.com/angelics/pfbng/master/ads/ads-domain-list.txt
 https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/regex.list
 https://raw.githubusercontent.com/aounakram/my-pihole-lists/master/regex.list
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-dead.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-risk.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-spam.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/dan-pollock-someonewhocares-org.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/kadhosts.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/malware-domain-list.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/mitchell-krogs-badd-boyz-hosts.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/spotifyads.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/steven-blacks-unified-list.txt
+https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS
