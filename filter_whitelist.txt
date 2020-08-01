@@ -34,6 +34,7 @@
 @@||localhost.megasyncloopback.mega.nz^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
+@@||nav.smartscreen.microsoft.com^$important
 @@||netflix.com$important
 @@||nexusmods.com^$important
 @@||oo-software.com^$important
@@ -44,6 +45,7 @@
 @@||self.events.data.microsoft.com^$important
 @@||sirius.mwbsys.com^$important
 @@||slscr.update.microsoft.com^$important
+@@||smartscreen.microsoft.com^$important
 @@||speedtest.net^$important
 @@||standardnotes.org^$important
 @@||steamcommunity.com^$important
