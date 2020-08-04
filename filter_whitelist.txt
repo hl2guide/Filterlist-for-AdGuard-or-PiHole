@@ -19,8 +19,10 @@
 @@||ctldl.windowsupdate.com^$important
 @@||dc.services.visualstudio.com^$important
 @@||dl.delivery.mp.microsoft.com^$important
+@@||download.sp.f-secure.com^$important
 @@||download.windowsupdate.com^$important
 @@||elb-ore-amz.nimbus.bitdefender.net^$important
+@@||f-secure.com^$important
 @@||fonts.gstatic.com^$important
 @@||free.hitnews.com^$important
 @@||gfwsl.geforce.com^$important
@@ -31,6 +33,7 @@
 @@||hcaptcha.com^$important
 @@||img.youtube.com^$important
 @@||inoreader.com^$important
+@@||ipv6check-http.steamcontent.com^$important
 @@||localhost.megasyncloopback.mega.nz^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
