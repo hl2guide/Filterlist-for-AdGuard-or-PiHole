@@ -14,6 +14,12 @@ e.g: @@||nexusmods.com^$important_
 
 As of version 2.1 the list is more cleaned up, optimized and better than ever.
 
+## News
+
+I'll be going on hiatus for about 2 weeks. During this time I'll be re-evaluating my approach to these lists and then developing version 2.2.
+
+That means two weeks of no commits or updates.
+
 ## Usage 📐
 
 Check that you are using __AdGuard Home v0.103.3__ or later (hotfixes vital functionality).
