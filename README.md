@@ -16,9 +16,7 @@ As of version 2.2 the list is more cleaned up, optimized and better than ever.
 
 ## News
 
-I'll be going on hiatus for about 2 weeks. During this time I'll be re-evaluating my approach to these lists and then developing version 2.2.
-
-That means two weeks of no commits or updates.
+2.2 is out.
 
 ## Usage 📐
 
