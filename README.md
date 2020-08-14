@@ -1,4 +1,4 @@
-# Filterlist for AdGuard 2.1
+# Filterlist for AdGuard 2.2
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
@@ -12,7 +12,7 @@ An aggressive filter-list that consolidates over 80 lists for use in AdGuard Hom
 _Please Note: The list is aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
 e.g: @@||nexusmods.com^$important_
 
-As of version 2.1 the list is more cleaned up, optimized and better than ever.
+As of version 2.2 the list is more cleaned up, optimized and better than ever.
 
 ## News
 
@@ -44,7 +44,7 @@ https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_
 
 You can modify how often filter lists are updated within Adguard Home in the __Settings__ > __General Settings__ page.
 
-Set "Filters update interval" to 1 hour and click the green "Save" button. This list updates about every 6-12 hours.
+Set "Filters update interval" to 1 hour and click the green "Save" button. This list updates sporadically.
 
 ## Suggestions 📌
 
