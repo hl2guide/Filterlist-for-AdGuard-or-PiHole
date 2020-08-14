@@ -16,7 +16,11 @@ As of version 2.2 the list is more cleaned up, optimized and better than ever.
 
 ## News
 
-2.2 is out.
+2.2 is out. The major change is that going forward updates will be sporadic and less frequent.
+
+This is since I've found no reasonable way to upload a file or commit to github on a schedule.
+
+For me it never remembers the authenication long enough.
 
 ## Usage 📐
 
