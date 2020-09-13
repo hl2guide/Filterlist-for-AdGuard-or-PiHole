@@ -5,4 +5,5 @@
 @@||cv.phncdn.com^$important
 @@||di.phncdn.com^$important
 @@||share.dmca.gripe^$important
+||dl.acronis.com^$important
 ||http://*^
