@@ -1,9 +1,4 @@
-@@||*.phncdn.com^$important
-@@||cdn1d-static-shared.phncdn.com^$important
-@@||ci.phncdn.com^$important
-@@||cs.phncdn.com^$important
-@@||cv.phncdn.com^$important
-@@||di.phncdn.com^$important
-@@||share.dmca.gripe^$important
+/stat/
+/telemetry/
 ||dl.acronis.com^$important
 ||http://*^
