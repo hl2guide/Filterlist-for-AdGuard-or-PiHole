@@ -20,6 +20,10 @@ Version 2.3 is out.
 * Added a few new lists
 * Additional cleanup done
 
+_The PowerShell generator script now uses a maximum of 6GB, yikes!_
+
+![Generator](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/generator%20example.png)
+
 ## Usage 📐
 
 Check that you are using __AdGuard Home v0.103.3__ or later (hotfixes vital functionality).
