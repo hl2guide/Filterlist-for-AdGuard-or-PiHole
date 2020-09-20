@@ -23,6 +23,7 @@
 @@||cdn.mwbsys.com^$important
 @@||cdn1d-static-shared.phncdn.com^$important
 @@||ci.phncdn.com^$important
+@@||clientconfig.akamai.steamstatic.com^$important
 @@||crapblock.theel0ja.info^$important
 @@||cs.phncdn.com^$important
 @@||ctldl.windowsupdate.com^$important
@@ -39,6 +40,7 @@
 @@||f-secure.com^$important
 @@||fonts.gstatic.com^$important
 @@||free.hitnews.com^$important
+@@||g.static.mega.co.nz^$important
 @@||gfwsl.geforce.com^$important
 @@||github.com^$important
 @@||google.com.au^$important
@@ -58,6 +60,7 @@
 @@||nav.smartscreen.microsoft.com^$important
 @@||netflix.com$important
 @@||nexusmods.com^$important
+@@||ntp.msn.com^$important
 @@||oo-software.com^$important
 @@||paypal.com^$important
 @@||pixhost.to^$important
@@ -74,8 +77,11 @@
 @@||smartscreen.microsoft.com^$important
 @@||speedtest.net^$important
 @@||standardnotes.org^$important
+@@||starget.intel.com.au^$important
 @@||static-assets-prod.epicgames.com^$important
 @@||static.pcgamingwiki.com^$important
+@@||static.seedr.cc^$important
+@@||static.twitchcdn.net^$important
 @@||steamcdn-a.akamaihd.net^$important
 @@||steamcommunity-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
@@ -92,4 +98,5 @@
 @@||user-images.githubusercontent.com^$important
 @@||virustotal.com^$important
 @@||vortex.data.microsoft.com^$important
+@@||www91.intel.com.au^$important
 @@||youtube.com^$important

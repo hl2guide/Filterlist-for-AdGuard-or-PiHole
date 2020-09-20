@@ -1,6 +1,6 @@
-https://abp.oisd.nl
 https://adaway.org/hosts.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://gitlab.com/andryou/block/raw/master/senpai-strict-compressed-domains
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 https://orca.pet/notonmyshift/domains.txt
@@ -41,6 +41,12 @@ https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/b
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
 https://raw.githubusercontent.com/eternnoir/pihole-regex.list/master/regex.list
 https://raw.githubusercontent.com/evpne/socialblocklists/master/Skype/skypeblocklist.txt
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/avg-avast-data-mining-full-block.txt
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smart-tv-ads-tracking.txt
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/spotify-ads-tracking.txt
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/tiktok-full-block-ftpihole.txt
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/windows10-spying-erm-i-mean-telemetry-lol.txt
 https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt
 https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
 https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/evil-domains.txt
@@ -59,6 +65,7 @@ https://raw.githubusercontent.com/migueldemoura/ublock-umatrix-rulesets/master/H
 https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hacked-domains.list
 https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
 https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains
 https://raw.githubusercontent.com/PebbleOG/pihole-regex/master/regex.list
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
@@ -84,5 +91,6 @@ https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchli
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/regex.list
+https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/tracking-plus.txt
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 https://threatcrowd.org/feeds/domains.txt
