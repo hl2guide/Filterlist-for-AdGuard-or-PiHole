@@ -1,4 +1,4 @@
-# Filterlist for AdGuard 2.2
+# Filterlist for AdGuard 2.3
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
@@ -12,16 +12,13 @@ An aggressive filter-list that consolidates over 90 lists for use in AdGuard Hom
 _Please Note: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
 e.g: @@||nexusmods.com^$important_
 
-As of version 2.2 the list is more cleaned up, optimized and better than ever.
+As of version 2.3 the list is more cleaned up, optimized and better than ever.
 
 ## News
 
-* 2.3 is coming out soon, I'm testing it over the next 2 weeks (end of August 2020).
-* 2.2 is out. The major change is that going forward updates will be sporadic and less frequent.
-
-This is since I've found no reasonable way to upload a file or commit to github on a schedule.
-
-(For me it never remembers the authenication long enough)
+Version 2.3 is out.
+* Added a few new lists
+* Additional cleanup done
 
 ## Usage 📐
 
