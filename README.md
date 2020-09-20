@@ -2,7 +2,7 @@
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
-An aggressive filter-list that consolidates over 80 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
+An aggressive filter-list that consolidates over 90 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
 * Blocks many ads, affiliates, analytics, enrichments, widgets and trackers
 * Blocks crypto-locker, drug, fake, fake news, phishing, ransomware, scam, spam, suspicious, and typosquatting websites
