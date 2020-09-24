@@ -6,10 +6,7 @@
 @@||aka.ms^$important
 @@||alomar.emsisoft.com^$important
 @@||au.download.windowsupdate.com^$important
-@@||avatars0.githubusercontent.com^$important
-@@||avatars1.githubusercontent.com^$important
-@@||avatars2.githubusercontent.com^$important
-@@||avatars3.githubusercontent.com^$important
+@@||avatars*.githubusercontent.com^$important
 @@||az764295.vo.msecnd.net^$important
 @@||azure.microsoft.com^$important
 @@||b.cdnst.net^$important
@@ -24,6 +21,7 @@
 @@||cdn1d-static-shared.phncdn.com^$important
 @@||ci.phncdn.com^$important
 @@||clientconfig.akamai.steamstatic.com^$important
+@@||community.cloudflare.steamstatic.com^$important
 @@||crapblock.theel0ja.info^$important
 @@||cs.phncdn.com^$important
 @@||ctldl.windowsupdate.com^$important
@@ -79,9 +77,15 @@
 @@||standardnotes.org^$important
 @@||starget.intel.com.au^$important
 @@||static-assets-prod.epicgames.com^$important
+@@||static-assets-prod.unrealengine.com^$important
+@@||static-cdn.jtvnw.net^$important
+@@||static.binglee.com.au^$important
+@@||static.chemistwarehouse.com.au^$important
+@@||static.mediafire.com^$important
 @@||static.pcgamingwiki.com^$important
 @@||static.seedr.cc^$important
 @@||static.twitchcdn.net^$important
+@@||staticcdn.duckduckgo.com^$important
 @@||steamcdn-a.akamaihd.net^$important
 @@||steamcommunity-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
