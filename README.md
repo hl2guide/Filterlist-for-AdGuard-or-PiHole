@@ -1,5 +1,7 @@
 # Filterlist for AdGuard 2.3
 
+💚 This repo is actively maintained
+
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
 An aggressive filter-list that consolidates over 90 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
