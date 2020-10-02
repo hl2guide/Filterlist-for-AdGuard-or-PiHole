@@ -11,8 +11,9 @@ https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/jbfake.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt
-https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ad%20Servers.txt
+https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt
 https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Mining%20pages.txt
+https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt
 https://raw.githubusercontent.com/angelics/pfbng/master/ads/ads-domain-list.txt
 https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/regex.list
 https://raw.githubusercontent.com/aounakram/my-pihole-lists/master/regex.list
@@ -28,7 +29,6 @@ https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/steven
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
-https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/HOSTS/HOSTS
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/Australia.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/UnitedKingdom.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/CountryCodesLists/UnitedStatesofAmerica.txt
