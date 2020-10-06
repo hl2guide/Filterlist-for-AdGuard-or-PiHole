@@ -2,3 +2,4 @@
 /telemetry/
 ||dl.acronis.com^$important
 ||http://*^
+||clickthruhost.com^$important

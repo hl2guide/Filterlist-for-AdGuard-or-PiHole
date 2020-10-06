@@ -5,6 +5,7 @@
 @@||acctcdn.msftauth.net^$important
 @@||aka.ms^$important
 @@||alomar.emsisoft.com^$important
+@@||api.epicgames.dev^$important
 @@||au.download.windowsupdate.com^$important
 @@||avatars*.githubusercontent.com^$important
 @@||az764295.vo.msecnd.net^$important
@@ -64,6 +65,7 @@
 @@||pixhost.to^$important
 @@||pollserver.lastpass.com^$important
 @@||privacy.microsoft.com^$important
+@@||qos1.ol.epicgames.com^$important
 @@||rarbg.to^$important
 @@||raw.githubusercontent.com^$important
 @@||self.events.data.microsoft.com^$important
@@ -85,7 +87,9 @@
 @@||static.pcgamingwiki.com^$important
 @@||static.seedr.cc^$important
 @@||static.twitchcdn.net^$important
+@@||static2.avg.com^$important
 @@||staticcdn.duckduckgo.com^$important
+@@||statics.cdntrex.com^$important
 @@||steamcdn-a.akamaihd.net^$important
 @@||steamcommunity-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
