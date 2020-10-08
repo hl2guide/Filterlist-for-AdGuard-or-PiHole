@@ -1,4 +1,5 @@
 @@||*.phncdn.com^$important
+@@||*.walmartimages.com^$important
 @@||1fichier.com^$important
 @@||22pixx.xyz^$important
 @@||account.adguard.com^$important
@@ -11,6 +12,7 @@
 @@||az764295.vo.msecnd.net^$important
 @@||azure.microsoft.com^$important
 @@||b.cdnst.net^$important
+@@||bbystatic.com^$important
 @@||bifrost.vivaldi.com^$important
 @@||bing.com^$important
 @@||bitdefender.net^$important
@@ -42,10 +44,13 @@
 @@||g.static.mega.co.nz^$important
 @@||gfwsl.geforce.com^$important
 @@||github.com^$important
+@@||gog-statics.com^$important
+@@||gog.com^$important
 @@||google.com.au^$important
 @@||gstatic.com^$important
 @@||guts2.sp.f-secure.com^$important
 @@||hcaptcha.com^$important
+@@||images-na.ssl-images-amazon.com^$important
 @@||imagetwist.com^$important
 @@||img.youtube.com^$important
 @@||inoreader.com^$important
@@ -54,6 +59,7 @@
 @@||localhost.megasyncloopback.mega.nz^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
+@@||m.media-amazon.com^$important
 @@||media.steampowered.com^$important
 @@||media4.steampowered.com^$important
 @@||nav.smartscreen.microsoft.com^$important
@@ -78,6 +84,8 @@
 @@||speedtest.net^$important
 @@||standardnotes.org^$important
 @@||starget.intel.com.au^$important
+@@||static*.cdn.ubi.com^$important
+@@||static-*-cdn.eporner.com^$important
 @@||static-assets-prod.epicgames.com^$important
 @@||static-assets-prod.unrealengine.com^$important
 @@||static-cdn.jtvnw.net^$important
@@ -86,6 +94,7 @@
 @@||static.mediafire.com^$important
 @@||static.pcgamingwiki.com^$important
 @@||static.seedr.cc^$important
+@@||static.tacdn.com^$important
 @@||static.twitchcdn.net^$important
 @@||static2.avg.com^$important
 @@||staticcdn.duckduckgo.com^$important
@@ -95,6 +104,7 @@
 @@||steamcommunity.com^$important
 @@||steamstore-a.akamaihd.net^$important
 @@||store-site-backend-static.ak.epicgames.com^$important
+@@||store.cloudflare.steamstatic.com^$important
 @@||teams.microsoft.com^$important
 @@||telemetry.malwarebytes.com^$important
 @@||tracking.epicgames.com^$important
@@ -106,5 +116,6 @@
 @@||user-images.githubusercontent.com^$important
 @@||virustotal.com^$important
 @@||vortex.data.microsoft.com^$important
+@@||www.redditstatic.com^$important
 @@||www91.intel.com.au^$important
 @@||youtube.com^$important
