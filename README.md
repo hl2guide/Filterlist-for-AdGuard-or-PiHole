@@ -6,10 +6,15 @@
 
 An aggressive filter-list that consolidates over 90 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
-* Blocks many ads, affiliates, analytics, enrichments, widgets and trackers
-* Blocks crypto-locker, drug, fake, fake news, phishing, ransomware, scam, spam, suspicious, and typosquatting websites
 * Includes the official **AdGuardSDNSFilter**
 * The final blocklist is cleaned, sorted and then duplicates have been removed
+
+It blocks:
+
+* ads, affiliates, analytics, enrichments, widgets and trackers
+* crypto-locker, shock, drug, fake, fake news, and ransomware websites
+* scam, spam, suspicious, and typosquatting websites
+* data miners, invasive telemetry, and phishing websites
 
 _Please Note: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
 e.g: @@||nexusmods.com^$important_
