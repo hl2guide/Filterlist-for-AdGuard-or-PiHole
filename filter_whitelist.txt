@@ -52,10 +52,12 @@
 @@||hcaptcha.com^$important
 @@||images-na.ssl-images-amazon.com^$important
 @@||imagetwist.com^$important
+@@||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@||img.youtube.com^$important
 @@||inoreader.com^$important
 @@||ipv6check-http.steamcontent.com^$important
 @@||level3.ssl.blizzard.com^$important
+@@||localcdn.org^$important
 @@||localhost.megasyncloopback.mega.nz^$important
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
@@ -65,6 +67,7 @@
 @@||nav.smartscreen.microsoft.com^$important
 @@||netflix.com$important
 @@||nexusmods.com^$important
+@@||nflxvideo.net^$important
 @@||ntp.msn.com^$important
 @@||oo-software.com^$important
 @@||paypal.com^$important
@@ -74,6 +77,7 @@
 @@||qos1.ol.epicgames.com^$important
 @@||rarbg.to^$important
 @@||raw.githubusercontent.com^$important
+@@||redditstatic.com^$important
 @@||self.events.data.microsoft.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||share.dmca.gripe^$important
@@ -116,6 +120,6 @@
 @@||user-images.githubusercontent.com^$important
 @@||virustotal.com^$important
 @@||vortex.data.microsoft.com^$important
-@@||www.redditstatic.com^$important
 @@||www91.intel.com.au^$important
+@@||xvideos-cdn.com^$important
 @@||youtube.com^$important
