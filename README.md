@@ -27,7 +27,7 @@ Version 2.3 is out.
 * Added a few new lists
 * Additional cleanup done
 
-_The PowerShell generator script now uses a maximum of 8.5GB, yikes!_
+_The PowerShell generator script now uses a maximum of 11.2GB of RAM for a duration of 50 minutes, yikes!_
 
 ## Usage 📐
 
