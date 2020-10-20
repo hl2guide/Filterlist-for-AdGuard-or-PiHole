@@ -21,6 +21,7 @@
 @@||bnetus-a.akamaihd.net^$important
 @@||cdn.cloudflare.steamstatic.com^$important
 @@||cdn.mwbsys.com^$important
+@@||cdn.sstatic.net^$important
 @@||cdn1d-static-shared.phncdn.com^$important
 @@||ci.phncdn.com^$important
 @@||clientconfig.akamai.steamstatic.com^$important
@@ -62,8 +63,10 @@
 @@||login.live.com^$important
 @@||login.microsoftonline.com^$important
 @@||m.media-amazon.com^$important
+@@||mboxedge36.tt.omtrdc.net^$important
 @@||media.steampowered.com^$important
 @@||media4.steampowered.com^$important
+@@||microsoftmscompoc.tt.omtrdc.net^$important
 @@||nav.smartscreen.microsoft.com^$important
 @@||netflix.com$important
 @@||nexusmods.com^$important
@@ -75,6 +78,7 @@
 @@||pollserver.lastpass.com^$important
 @@||privacy.microsoft.com^$important
 @@||qos1.ol.epicgames.com^$important
+@@||query.prod.cms.rt.microsoft.com^$important
 @@||rarbg.to^$important
 @@||raw.githubusercontent.com^$important
 @@||redditstatic.com^$important
@@ -102,6 +106,9 @@
 @@||static.twitchcdn.net^$important
 @@||static2.avg.com^$important
 @@||staticcdn.duckduckgo.com^$important
+@@||statics-*.onestore.ms^$important
+@@||statics-storeexp-eas-ms-com.akamaized.net^$important
+@@||statics-wcus.onestore.ms^$important
 @@||statics.cdntrex.com^$important
 @@||steamcdn-a.akamaihd.net^$important
 @@||steamcommunity-a.akamaihd.net^$important
@@ -118,6 +125,7 @@
 @@||upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net^$important
 @@||uptobox.com^$important
 @@||user-images.githubusercontent.com^$important
+@@||v20.events.data.microsoft.com^$important
 @@||virustotal.com^$important
 @@||vortex.data.microsoft.com^$important
 @@||www91.intel.com.au^$important
