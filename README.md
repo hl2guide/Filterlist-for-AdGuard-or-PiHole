@@ -32,7 +32,7 @@ Version 2.3 is out.
 * Added a few new lists
 * Additional cleanup done
 
-_The PowerShell generator script now uses a maximum of 5GB of RAM for a duration of 27 minutes_
+_The PowerShell generator script now uses a maximum of 5GB of RAM for a duration of 27 minutes (thanks to https://github.com/tamada/uniq2)_
 
 ## Usage 📐
 
