@@ -23,6 +23,11 @@ As of version 2.3 the list is more cleaned up, optimized and better than ever.
 
 ## News
 
+Version 2.4 is in development.
+* Will add new lists
+* Will be more streamlined
+* Should release around the end of November
+
 Version 2.3 is out.
 * Added a few new lists
 * Additional cleanup done
