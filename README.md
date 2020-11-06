@@ -16,8 +16,8 @@ It blocks:
 * scam, spam, suspicious, and typosquatting websites
 * data miners, invasive telemetry, and phishing websites
 
-_Please Note: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
-e.g: @@||nexusmods.com^$important_
+> VITAL: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
+e.g: @@||nexusmods.com^$important
 
 As of version 2.3 the list is more cleaned up, optimized and better than ever.
 
