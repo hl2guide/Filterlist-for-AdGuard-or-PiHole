@@ -36,7 +36,7 @@ _The PowerShell generator script now uses a maximum of 5GB of RAM for a duration
 
 ## Usage 📐
 
-Check that you are using __AdGuard Home v0.104.0__ or later (hotfixes vital functionality).
+Check that you are using __AdGuard Home v0.104.1__ or later (hotfixes vital functionality).
 
 Once you have __AdGuard Home__ ready and are logged in, use its main menu to add one __blocklist__ and one __allowlist__.
 
