@@ -29,6 +29,7 @@
 @@||cdn.mwbsys.com^$important
 @@||cdn.sstatic.net^$important
 @@||cdn1d-static-shared.phncdn.com^$important
+@@||cdns-content.dzcdn.net^$important
 @@||ci.phncdn.com^$important
 @@||clientconfig.akamai.steamstatic.com^$important
 @@||coles.com.au^$important
@@ -61,6 +62,7 @@
 @@||gstatic.com^$important
 @@||guts2.sp.f-secure.com^$important
 @@||hcaptcha.com^$important
+@@||help.evernote.com^$important
 @@||images-na.ssl-images-amazon.com^$important
 @@||imagetwist.com^$important
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^$important
@@ -112,6 +114,8 @@
 @@||srv.de.ebayrtm.com^$important
 @@||standardnotes.org^$important
 @@||starget.intel.com.au^$important
+@@||static*.cdn.ubi.com^$important
+@@||static*.squarespace.com^$important
 @@||static-*-cdn.eporner.com^$important
 @@||static-assets-prod.epicgames.com^$important
 @@||static-assets-prod.unrealengine.com^$important
@@ -127,8 +131,6 @@
 @@||static.twitchcdn.net^$important
 @@||static.wikia.nocookie.net^$important
 @@||static.wixstatic.com^$important
-@@||static*.cdn.ubi.com^$important
-@@||static*.squarespace.com^$important
 @@||static2.avg.com^$important
 @@||staticcdn.duckduckgo.com^$important
 @@||statics-*.onestore.ms^$important
