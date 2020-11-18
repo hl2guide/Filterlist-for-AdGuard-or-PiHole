@@ -30,6 +30,7 @@
 @@||cdn.sstatic.net^$important
 @@||cdn1d-static-shared.phncdn.com^$important
 @@||cdns-content.dzcdn.net^$important
+@@||cfl.dropboxstatic.com^$important
 @@||ci.phncdn.com^$important
 @@||clientconfig.akamai.steamstatic.com^$important
 @@||coles.com.au^$important
@@ -148,6 +149,7 @@
 @@||steamcommunity-a.akamaihd.net^$important
 @@||steamcommunity.com^$important
 @@||steamstore-a.akamaihd.net^$important
+@@||steamuserimages-a.akamaihd.net^$important
 @@||store-site-backend-static.ak.epicgames.com^$important
 @@||store.cloudflare.steamstatic.com^$important
 @@||teams.microsoft.com^$important
