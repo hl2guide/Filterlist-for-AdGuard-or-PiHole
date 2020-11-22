@@ -1,4 +1,4 @@
-# Filterlist for AdGuard 2.3
+# Filterlist for AdGuard 2.4
 
 💚 This repo is actively maintained
 
@@ -19,24 +19,17 @@ It blocks:
 > VITAL: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
 e.g: @@||nexusmods.com^$important
 
-As of version 2.3 the list is more cleaned up, optimized and better than ever.
+As of version 2.4 the list is more cleaned up, optimized and better than ever. It includes over 110 lists.
 
 ## News
 
-Version 2.4 is in development.
-* Will add new lists
-* Will be more streamlined
-* Should release around the end of November
-
-Version 2.3 is out.
-* Added a few new lists
-* Additional cleanup done
+Version 2.4 is released.
 
 _The PowerShell generator script now uses a maximum of 5GB of RAM for a duration of 27 minutes (thanks to https://github.com/tamada/uniq2)_
 
 ## Usage 📐
 
-Check that you are using __AdGuard Home v0.104.1__ or later (hotfixes vital functionality).
+Check that you are using __AdGuard Home v0.104.3__ or later (hotfixes vital functionality).
 
 Once you have __AdGuard Home__ ready and are logged in, use its main menu to add one __blocklist__ and one __allowlist__.
 
