@@ -25,7 +25,7 @@ As of version 2.4 the list is more cleaned up, optimized and better than ever. I
 
 Version 2.4 is released.
 
-_The PowerShell generator script now uses a maximum of 5GB of RAM for a duration of 27 minutes (thanks to https://github.com/tamada/uniq2)_
+_The PowerShell generator script now uses a maximum of 5GB of RAM for a duration of 40 minutes (thanks to https://github.com/tamada/uniq2)_
 
 ## Usage 📐
 
