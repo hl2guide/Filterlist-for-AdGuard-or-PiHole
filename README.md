@@ -1,12 +1,12 @@
-# Filterlist for AdGuard 2.4 🖥💟🛡
+# Filterlist for AdGuard 2.45 🖥💟🛡
 
-💚 This repo is actively maintained
+💚 This repo is actively maintained and updates about twice per day
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
 ## About ℹ
 
-An aggressive filter-list that consolidates over __120 lists__ for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
+An very aggressive filter-list that consolidates over __205 lists__ for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
 * Includes the official **AdGuardSDNSFilter**
 * The final blocklist is cleaned, sorted and then duplicates have been removed
@@ -22,18 +22,17 @@ It blocks:
 > VITAL: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
 e.g: `@@||nexusmods.com^$important`
 
-As of version 2.4 the list is more cleaned up, optimized and better than ever.
+As of version 2.45 the list is more cleaned up, optimized and better than ever.
+
+Version 2.45 is a preparation release before version 2.5. It's a big change so please report any false positives for domains.
 
 ## News 📰
 
 * Version 2.5 is under development
   * Will integrate a Python script to solve slow AIO list generation (down to a very reasonable 3 minutes, in early tests)
   * Having it be much faster to generate will encourage me to update this repo more often
-  * [2.5 Alpha 1 is live](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/2.5%20ALPHA%201/filter_blocklist.txt), contains over 205 block lists and weighs around 83MB (only use it as an early tester who wants to report issues)
-  
-* Version 2.4 is released and stable
 
-_The PowerShell generator script now uses a maximum of 7GB of RAM for a duration of 50 minutes (thanks to https://github.com/tamada/uniq2)_
+* Version 2.45 is released, now uses a hybrid Python/PowerShell script that generates within 3 minutes
 
 ## Usage 📐
 
