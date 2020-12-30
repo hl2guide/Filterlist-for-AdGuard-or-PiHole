@@ -1,12 +1,4 @@
-﻿
-
--fsecure.com
--layhearthstone.com
--layoverwatch.com
--okemongo.com
--secure.com
--ubgmobile.com
-0ffcloud.com
+﻿0ffcloud.com
 0k.ru
 0layhearthstone.com
 0layoverwatch.com
