@@ -233,6 +233,7 @@
 @@||cdnjs.cloudflare.com^$important
 @@||cdp.aliexpress.com^$important
 @@||cfl.dropboxstatic.com^$important
+@@||cfos.de^$important
 @@||cha1.speedtest.telstra.net^$important
 @@||change.org^$important
 @@||chart.googleapis.com^$important
@@ -255,6 +256,7 @@
 @@||client-event-reporter.twitch.tv^$important
 @@||client-s.gateway.messenger.live.com^$important
 @@||client.dropbox.com^$important
+@@||clientconfig.akamai.steamstatic.com^$important
 @@||clients.l.google.com^$important
 @@||clients1.google.com^$important
 @@||clients2.google.com^$important
@@ -855,6 +857,7 @@
 @@||s2.youtube.com^$important
 @@||s334284386.t.eloqua.com^$important
 @@||salesforce.com^$important
+@@||scan.hitmanpro.com^$important
 @@||scan.kaspersky.com^$important
 @@||script.google.com^$important
 @@||search.vimeo.com^$important
