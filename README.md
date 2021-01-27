@@ -1,4 +1,4 @@
-# Filterlist for AdGuard 2.45 🖥💟🛡
+# Filterlist for AdGuard 2.50 🖥💟🛡
 
 💚 This repo is actively maintained and updates about twice per day
 
@@ -6,7 +6,7 @@
 
 ## About ℹ
 
-A very aggressive filter-list that consolidates over __260 lists__ for use in
+A very aggressive filter-list that consolidates over __310 lists__ for use in
 AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
 * Includes the AdGuard's official **AdGuardSDNSFilter**
@@ -20,10 +20,9 @@ AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 e.g: `@@||nexusmods.com^$important`
 * Since everyone uses the internet differently please be aware that some initial
 manual whitelisting is required
-* The blocklist is around 80MB so if you're internet plan is data limited please account for
-about 2400MB (2.4GB) per month, if AdGuard Home is set to update once per day
-* As of __version 2.45__ the list is more cleaned up, optimized and better than ever
-* Version __2.45__ is a preparation release before version __2.5__
+* The blocklist is around 90MB so if you're internet plan is data limited please account for
+about 3000MB (3GB) per month, if AdGuard Home is set to update once per day
+* As of __version 2.5__ the list is more cleaned up, optimized and better than ever
 
 It's a BIG change so please report any false positives for domains.
 
@@ -39,11 +38,7 @@ It's a BIG change so please report any false positives for domains.
 
 ## News 📰
 
-* Version 2.45 is released, now uses a hybrid Python/PowerShell generator script that generates within 15 minutes
-* Version 2.46 (PC Game Launcher Client Fixes) will release soon (may be in February 2021)
-* Version 2.5 is under development -
-[submit a feature request](https://github.com/hl2guide/Filterlist-for-AdGuard/issues/new?assignees=hl2guide&labels=enhancement&template=feature_request.md&title=2.5%20Request%20-%20)
-  * Will cleanup list and add more lists
+* Version 2.50 is released, now uses a hybrid Python/PowerShell generator script that generates within 20 minutes
 
 ## Usage 📐
 
