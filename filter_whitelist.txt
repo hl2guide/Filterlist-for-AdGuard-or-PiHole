@@ -26,6 +26,7 @@
 @@||4shared.com^$important
 @@||a.idio.co^$important
 @@||a.nel.cloudflare.com^$important
+@@||a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^$important
 @@||ac.duckduckgo.com^$important
 @@||account.adguard.com^$important
 @@||account.np.ac.playstation.net.edgekey.net^$important
@@ -206,6 +207,7 @@
 @@||box.com^$important
 @@||brazil.kaspersky.com^$important
 @@||brazzers.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
 @@||bugzilla.mozilla.org^$important
 @@||bunnings.com.au^$important
 @@||c.oracleinfinity.io^$important
@@ -368,6 +370,7 @@
 @@||discuss.dev.twitch.tv^$important
 @@||discussions.apple.com^$important
 @@||displaycatalog.mp.microsoft.com^$important
+@@||disq.us^$important
 @@||disqus.com^$important
 @@||disquscdn.com^$important
 @@||dl-web.dropbox.com^$important
@@ -517,6 +520,7 @@
 @@||gist.github.com^$important
 @@||gist.githubusercontent.com^$important
 @@||github-production-release-asset-*.s3.amazonaws.com^$important
+@@||github-production-user-asset-6210df.s3.amazonaws.com^$important
 @@||github.com^$important
 @@||github.developerdan.com^$important
 @@||github.io^$important
@@ -609,6 +613,7 @@
 @@||img3.hulu.com^$important
 @@||inbox.google.com^$important
 @@||index.kaspersky.com^$important
+@@||ingame-news.ubi.com^$important
 @@||ingest.twitch.tv^$important
 @@||inoreader.com^$important
 @@||input.mozilla.org^$important
@@ -729,6 +734,7 @@
 @@||mega.co.nz^$important
 @@||mega.io^$important
 @@||mega.nz^$important
+@@||mel1.speedtest.telstra.net^$important
 @@||microsoftonline.com^$important
 @@||mirror.internet.asn.au^$important
 @@||mktplassets-ssl.xbox.com^$important
@@ -973,6 +979,7 @@
 @@||static*.behindthevoiceactors.com^$important
 @@||static*.brave.com^$important
 @@||static*.cdn.ubi.com^$important
+@@||static*.ubi.com^$important
 @@||staticcdn.duckduckgo.com^$important
 @@||statics.cdntrex.com^$important
 @@||status.github.com^$important
@@ -1052,7 +1059,9 @@
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
 @@||tv.vimeo.com^$important
 @@||tw.blog.twitch.tv^$important
+@@||twemoji.maxcdn.com^$important
 @@||twitch.tv^$important
+@@||ubisoft-orbit-savegames.s3.amazonaws.com^$important
 @@||ubistatic*-a.akamaihd.net^$important
 @@||udomain.dl.sourceforge.net^$important
 @@||ugc.api.playstation.com^$important
@@ -1063,6 +1072,7 @@
 @@||update.videolan.org^$important
 @@||updates.push.services.mozilla.com^$important
 @@||upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net^$important
+@@||uplaypc-s-ubisoft.cdn.ubi.com^$important
 @@||upload.vimeo.com^$important
 @@||upload.wikimedia.org^$important
 @@||uptobox.com^$important
@@ -1084,6 +1094,7 @@
 @@||vortex.data.microsoft.com^$important
 @@||vporn.com^$important
 @@||vscode-sync.trafficmanager.net^$important
+@@||wallet.ecom.ubi.com^$important
 @@||wdcp.microsoft.com^$important
 @@||wiki.mozilla.org^$important
 @@||wikihow.com^$important
