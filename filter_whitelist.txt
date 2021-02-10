@@ -224,6 +224,7 @@
 @@||c.oracleinfinity.io^$important
 @@||c.ptgncdn.com^$important
 @@||c1.microsoft.com^$important
+@@||cacerts.digicert.com^$important
 @@||caldav.fe.apple-dns.net^$important
 @@||caldav.icloud.com^$important
 @@||calendar.google.com^$important
@@ -331,6 +332,7 @@
 @@||content.cloudflare.com^$important
 @@||content.hulu.com^$important
 @@||controllers.xbox.com^$important
+@@||controls.platform.account.www.microsoft.com^$important
 @@||copyright.help.soundcloud.com^$important
 @@||copyright.soundcloud.com^$important
 @@||copyrights.help.soundcloud.com^$important
@@ -357,6 +359,7 @@
 @@||d*.debrid.link^$important
 @@||d.dropbox.com^$important
 @@||d3aqoihi2n8ty8.cloudfront.net^$important
+@@||da.xboxservices.com^$important
 @@||dash.cloudflare.com^$important
 @@||dashboard.plex.tv^$important
 @@||dashbox.soundcloud.com^$important
@@ -535,6 +538,7 @@
 @@||frog.wix.com^$important
 @@||fs.microsoft.com^$important
 @@||fsa01.ps4.update.playstation.net^$important
+@@||ftp.cdnrobot.xyz^$important
 @@||ftp.chocolatey.org^$important
 @@||ftp.de.debian.org^$important
 @@||ftp.mozilla.org^$important
@@ -652,6 +656,7 @@
 @@||img3.hulu.com^$important
 @@||inbox.google.com^$important
 @@||index.kaspersky.com^$important
+@@||ing.com.au^$important
 @@||ingame-news.ubi.com^$important
 @@||ingest.twitch.tv^$important
 @@||inoreader.com^$important
@@ -798,6 +803,7 @@
 @@||msftconnecttest.com^$important
 @@||msftncsi.com^$important
 @@||msn.com^$important
+@@||mucp.api.account.microsoft.com^$important
 @@||music.plus.google.com^$important
 @@||music.samsung.com^$important
 @@||music.twitch.tv^$important
