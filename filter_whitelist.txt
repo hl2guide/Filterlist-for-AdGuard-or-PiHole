@@ -1,3 +1,5 @@
+@@||.l.google.com^$important
+@@||.soundcloud.com^$important
 @@||*-ebgames.eb-cdn.com.au^$important
 @@||*.*.pool.ntp.org^$important
 @@||*.battle.net^$important
@@ -13,8 +15,6 @@
 @@||*.wns.windows.com^$important
 @@||*.ytimg.com^$important
 @@||*smartscreen-prod.microsoft.com^$important
-@@||.l.google.com^$important
-@@||.soundcloud.com^$important
 @@||0.client-channel.google.com^$important
 @@||0.gravatar.com^$important
 @@||0.wikipedia.com^$important
@@ -345,6 +345,8 @@
 @@||crl.globalsign.net^$important
 @@||crl.identrust.com^$important
 @@||crl.sca1b.amazontrust.com^$important
+@@||crl.usertrust.com^$important
+@@||crl4.digicert.com^$important
 @@||cs.phncdn.com^$important
 @@||cs.twitch.tv^$important
 @@||cs.wikipedia.com^$important
@@ -356,8 +358,8 @@
 @@||cy2.settings.data.microsoft.com.akadns.net^$important
 @@||cyberdrop.me^$important
 @@||cz.wikipedia.com^$important
-@@||d*.debrid.link^$important
 @@||d.dropbox.com^$important
+@@||d*.debrid.link^$important
 @@||d3aqoihi2n8ty8.cloudfront.net^$important
 @@||da.xboxservices.com^$important
 @@||dash.cloudflare.com^$important
@@ -834,7 +836,9 @@
 @@||oapi.opalsystems.com.au^$important
 @@||oca-api.netflix.com^$important
 @@||ocsp.digicert.com^$important
+@@||ocsp.godaddy.com^$important
 @@||ocsp.sca1b.amazontrust.com^$important
+@@||ocsp.usertrust.com^$important
 @@||office.com^$important
 @@||office365.com^$important
 @@||officeclient.microsoft.com^$important
@@ -1016,10 +1020,6 @@
 @@||stackoverflow.com^$important
 @@||staging.plex.tv^$important
 @@||standardnotes.org^$important
-@@||static*.behindthevoiceactors.com^$important
-@@||static*.brave.com^$important
-@@||static*.cdn.ubi.com^$important
-@@||static*.ubi.com^$important
 @@||static-*-cdn.eporner.com^$important
 @@||static-assets-prod.epicgames.com^$important
 @@||static-assets-prod.unrealengine.com^$important
@@ -1044,6 +1044,10 @@
 @@||static.twitchcdn.net^$important
 @@||static.wixstatic.com^$important
 @@||static.zdassets.com^$important
+@@||static*.behindthevoiceactors.com^$important
+@@||static*.brave.com^$important
+@@||static*.cdn.ubi.com^$important
+@@||static*.ubi.com^$important
 @@||staticcdn.duckduckgo.com^$important
 @@||statics-*.onestore.ms^$important
 @@||statics.cdntrex.com^$important
@@ -1196,3 +1200,4 @@
 @@||youtube.com^$important
 @@||youtubei.googleapis.com^$important
 @@||yt3.ggpht.com^$important
+@@||zerossl.ocsp.sectigo.com^$important
