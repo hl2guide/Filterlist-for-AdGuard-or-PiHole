@@ -1,0 +1,4 @@
+# ======= NEWS =======
+
+# [D1] Mainstream Media
+/(.*)(foxnews|cbs|cnn|msnbc)(.*)/
