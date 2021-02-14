@@ -4,6 +4,7 @@
 @@||*.*.pool.ntp.org^$important
 @@||*.*.storage.live.com^$important
 @@||*.*.storage.msn.com^$important
+@@||*._dns-sd._udp.*.in-addr.arpa^$important
 @@||*.aria.microsoft.com^$important
 @@||*.battle.net^$important
 @@||*.branch.io^$important
