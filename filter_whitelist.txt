@@ -13,6 +13,7 @@
 @@||*.dl.delivery.mp.microsoft.com^$important
 @@||*.docs.live.net^$important
 @@||*.files.1drv.com^$important
+@@||*.gallery.vsassets.io^$important
 @@||*.gallerycdn.vsassets.io^$important
 @@||*.gravatar.com^$important
 @@||*.groups.office.live.com^$important
@@ -372,6 +373,7 @@
 @@||crl.comodoca.com^$important
 @@||crl.globalsign.net^$important
 @@||crl.identrust.com^$important
+@@||crl.pki.goog^$important
 @@||crl.sca1b.amazontrust.com^$important
 @@||crl.thawte.com^$important
 @@||crl.usertrust.com^$important
