@@ -92,6 +92,7 @@
 @@||alicdn.com^$important
 @@||aliexpress.com^$important
 @@||alipay.com^$important
+@@||altap.cz^$important
 @@||alternativeto.net^$important
 @@||amd.com^$important
 @@||answers.microsoft.com^$important
@@ -231,6 +232,7 @@
 @@||bit.ly^$important
 @@||bitdefender.net^$important
 @@||blackberry.com^$important
+@@||blitz.mb-cosmos.com^$important
 @@||blobs.officehome.msocdn.com^$important
 @@||blog.bit.ly^$important
 @@||blog.br.playstation.com^$important
@@ -279,6 +281,7 @@
 @@||cdn.onenote.net^$important
 @@||cdn.shopify.com^$important
 @@||cdn.sstatic.net^$important
+@@||cdn.superantispyware.com^$important
 @@||cdn.us.playstation.com^$important
 @@||cdn.ziffstatic.com^$important
 @@||cdn0.woolworths.media^$important
@@ -640,6 +643,7 @@
 @@||guardianproject.info^$important
 @@||gumtree.com.au^$important
 @@||gumtree.com^$important
+@@||guru99.com^$important
 @@||halo.part.xbox.com^$important
 @@||halo.xbox.com^$important
 @@||hardware.support.eu.playstation.com^$important
@@ -1048,6 +1052,7 @@
 @@||secure.twitch.tv^$important
 @@||secure.vimeo.com^$important
 @@||secured.netflix.com^$important
+@@||securedownloads.superantispyware.com^$important
 @@||secureir.ebaystatic.com^$important
 @@||seed*.debrid.link^$important
 @@||seedr.cc^$important
@@ -1279,9 +1284,6 @@
 @@||wordpress.com^$important
 @@||wordpress.org^$important
 @@||wt.soundcloud.com^$important
-@@||altap.cz^$important
-@@||guru99.com^$important
-@@||kiboke-studio.hr^$important
 @@||www91.intel.com.au^$important
 @@||xbox.com^$important
 @@||xbox.ipv6.microsoft.com^$important
