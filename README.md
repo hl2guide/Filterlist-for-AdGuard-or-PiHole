@@ -12,12 +12,12 @@ AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 * It includes the AdGuard's official **AdGuardSDNSFilter**
 * It is cleaned, sorted, with duplicates removed
 
-### Latest News (March 13th, 2021)
+### Latest News (March 15th, 2021)
 
 * Please check that you've added a third and fourth part of the blocklist to AdGuard Home as per the
 [usage page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/USAGE.md).
 * Please note that 2.60 is in development
-* 2.60 has been delayed until I work out the approach I'd like to take
+* 2.60 has been delayed until I work out the approach I'd like to take to reduce filesize
 
 ### VITAL NOTES 👀
 

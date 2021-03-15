@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/steven
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/tyzbit.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/uncheckyads.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
-https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/domains.txt
+https://raw.githubusercontent.com/Bon-Appetit/porn-domains/master/block.txt
 https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 https://raw.githubusercontent.com/cb-software/CB-Malicious-Domains/master/block_lists/hosts
 https://raw.githubusercontent.com/chrisjudk/hosts/master/hosts
@@ -166,7 +166,6 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker7.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/WindowsSpyBlocker81.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Yhonay-AntiPopAds.txt
-https://raw.githubusercontent.com/DevShubam/Blockd-IP-Loggers/master/uBlock_or_AdGuard.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
