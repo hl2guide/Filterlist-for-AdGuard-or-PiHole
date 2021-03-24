@@ -1,10 +1,14 @@
+@@||_dnsaddr.bootstrap.libp2p.io^$important
+@@||_dnsaddr.ipfs.lubar.me^$important
+@@||.l.google.com^$important
+@@||.soundcloud.com^$important
 @@||*-ebgames.eb-cdn.com.au^$important
+@@||*._dns-sd._udp.*.in-addr.arpa^$important
 @@||*.*.livefilestore.com^$important
 @@||*.*.onedrive.live.com^$important
 @@||*.*.pool.ntp.org^$important
 @@||*.*.storage.live.com^$important
 @@||*.*.storage.msn.com^$important
-@@||*._dns-sd._udp.*.in-addr.arpa^$important
 @@||*.aria.microsoft.com^$important
 @@||*.battle.net^$important
 @@||*.bootstrap.libp2p.io
@@ -45,20 +49,17 @@
 @@||*.wns.windows.com^$important
 @@||*.ytimg.com^$important
 @@||*smartscreen-prod.microsoft.com^$important
-@@||.l.google.com^$important
-@@||.soundcloud.com^$important
 @@||0.client-channel.google.com^$important
 @@||0.gravatar.com^$important
 @@||0.wikipedia.com^$important
 @@||0eaf.cardinalcommerce.com^$important
 @@||0xxx.ws^$important
 @@||1337x.to^$important
+@@||192-168-1-103.mydns.jdownloader.org^$important
 @@||1fichier.com^$important
 @@||1storecatalogrevocation.storequality.microsoft.com^$important
 @@||22pixx.xyz^$important
 @@||4shared.com^$important
-@@||_dnsaddr.bootstrap.libp2p.io^$important
-@@||_dnsaddr.ipfs.lubar.me^$important
 @@||a.idio.co^$important
 @@||a.nel.cloudflare.com^$important
 @@||a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com^$important
@@ -80,6 +81,7 @@
 @@||acctcdn.msauth.net^$important
 @@||acctcdn.msftauth.net^$important
 @@||acer.com^$important
+@@||adaway.org^$important
 @@||adblockplus.org^$important
 @@||addictivetips.com^$important
 @@||addons.mozilla.org^$important
@@ -145,6 +147,7 @@
 @@||api.snapcraft.io^$important
 @@||api.steampowered.com^$important
 @@||api.twitch.tv^$important
+@@||api.typeform.com^$important
 @@||api.vimeo.com^$important
 @@||api.weather.com^$important
 @@||api.xda-developers.com^$important
@@ -275,6 +278,7 @@
 @@||c.oracleinfinity.io^$important
 @@||c.ptgncdn.com^$important
 @@||c.s-microsoft.com^$important
+@@||c0a80167.mydns.jdownloader.org^$important
 @@||c1.microsoft.com^$important
 @@||cacerts.digicert.com^$important
 @@||caldav.fe.apple-dns.net^$important
@@ -285,6 +289,7 @@
 @@||cast-1.soundcloud.com^$important
 @@||cast.netflix.com^$important
 @@||cast.soundcloud.com^$important
+@@||catalog.gamepass.com^$important
 @@||catalog.gamepass.com^$important
 @@||cdn-images.xda-developers.com^$important
 @@||cdn-pics.pornhd.com^$important
@@ -322,6 +327,7 @@
 @@||chatenabled.mail.google.com^$important
 @@||chatlounge-preview.xbox.com^$important
 @@||chbusiness.samsung.com^$important
+@@||checkappexec.microsoft.com^$important
 @@||checkappexec.microsoft.com^$important
 @@||checkout.soundcloud.com^$important
 @@||checkout.stripe.com^$important
@@ -425,8 +431,8 @@
 @@||cy2.settings.data.microsoft.com.akadns.net^$important
 @@||cyberdrop.me^$important
 @@||cz.wikipedia.com^$important
-@@||d*.debrid.link^$important
 @@||d.dropbox.com^$important
+@@||d*.debrid.link^$important
 @@||d3aqoihi2n8ty8.cloudfront.net^$important
 @@||da.xboxservices.com^$important
 @@||daisy.ubuntu.com^$important
@@ -576,6 +582,7 @@
 @@||fanboy.co.nz^$important
 @@||fandom.com^$important
 @@||favorites.live.com^$important
+@@||fe2cr.update.microsoft.com^$important
 @@||feed.xda-developers.com^$important
 @@||feedback.aliexpress.com^$important
 @@||feedback.xbox.com^$important
@@ -592,6 +599,7 @@
 @@||fluffy-blocklist.skcat.tk^$important
 @@||fonts.gstatic.com^$important
 @@||fonts.intercomcdn.com^$important
+@@||form.typeform.com^$important
 @@||forms.office.com^$important
 @@||forum.fr.playstation.com^$important
 @@||forum.kaspersky.com^$important
@@ -630,6 +638,7 @@
 @@||ftp.mozilla.org^$important
 @@||ftprivacy.cloud^$important
 @@||g.live.com^$important
+@@||g.static.mega.co.nz^$important
 @@||galleryn*.awemdia.com^$important
 @@||gamelogs.live.bhvrdbd.com^$important
 @@||gamercard.xbox.com^$important
@@ -885,6 +894,7 @@
 @@||marketplace.xbox.com^$important
 @@||massive.io^$important
 @@||maxcdn.bootstrapcdn.com^$important
+@@||mcmilk.de^$important
 @@||me-en.kaspersky.com^$important
 @@||me.kaspersky.com^$important
 @@||media-cdn.twitch.tv^$important
@@ -956,7 +966,6 @@
 @@||oapi.opalsystems.com.au^$important
 @@||oauth.live.com^$important
 @@||oca-api.netflix.com^$important
-@@||ocsp*.globalsign.com^$important
 @@||ocsp.comodoca.com^$important
 @@||ocsp.comodoca4.com^$important
 @@||ocsp.digicert.com^$important
@@ -967,6 +976,7 @@
 @@||ocsp.sectigo.com^$important
 @@||ocsp.usertrust.com^$important
 @@||ocsp.verisign.com^$important
+@@||ocsp*.globalsign.com^$important
 @@||odc.officeapps.live.com^$important
 @@||odinvzc.azureedge.net^$important
 @@||office.com^$important
@@ -995,6 +1005,7 @@
 @@||pages.engage.xbox.com^$important
 @@||pages.soundcloud.com^$important
 @@||pages.status.xbox.com^$important
+@@||panel.seedbox.io^$important
 @@||part.xbox.com^$important
 @@||partner.microsoft.com^$important
 @@||partners.playstation.com^$important
@@ -1114,6 +1125,7 @@
 @@||s82i.app.link^$important
 @@||salesforce.com^$important
 @@||sb.adtidy.org^$important
+@@||sb.ltn.fi^$important
 @@||scan.hitmanpro.com^$important
 @@||scan.kaspersky.com^$important
 @@||scoop.sh^$important
@@ -1131,6 +1143,7 @@
 @@||seedr.cc^$important
 @@||self.events.data.microsoft.com^$important
 @@||service.weather.microsoft.com^$important
+@@||services.gfe.nvidia.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||settings.data.microsoft.com^$important
 @@||settings.live.net^$important
@@ -1143,6 +1156,7 @@
 @@||sirius.mwbsys.com^$important
 @@||skyapi.live.net^$important
 @@||skydrive.live.com^$important
+@@||slscr.update.microsoft.com^$important
 @@||smartscreen-prod.microsoft.com^$important
 @@||smartscreen.microsoft.com^$important
 @@||snahp.it^$important
@@ -1182,10 +1196,6 @@
 @@||stackoverflow.com^$important
 @@||staging.plex.tv^$important
 @@||standardnotes.org^$important
-@@||static*.behindthevoiceactors.com^$important
-@@||static*.brave.com^$important
-@@||static*.cdn.ubi.com^$important
-@@||static*.ubi.com^$important
 @@||static-*-cdn.eporner.com^$important
 @@||static-assets-prod.epicgames.com^$important
 @@||static-assets-prod.unrealengine.com^$important
@@ -1211,6 +1221,10 @@
 @@||static.wikia.nocookie.net^$important
 @@||static.wixstatic.com^$important
 @@||static.zdassets.com^$important
+@@||static*.behindthevoiceactors.com^$important
+@@||static*.brave.com^$important
+@@||static*.cdn.ubi.com^$important
+@@||static*.ubi.com^$important
 @@||staticcdn.duckduckgo.com^$important
 @@||statics-*.onestore.ms^$important
 @@||statics.cdntrex.com^$important
@@ -1304,6 +1318,7 @@
 @@||tw.blog.twitch.tv^$important
 @@||twemoji.maxcdn.com^$important
 @@||twitch.tv^$important
+@@||u6571834.ct.sendgrid.net^$important
 @@||ubisoft-orbit-savegames.s3.amazonaws.com^$important
 @@||ubistatic*-a.akamaihd.net^$important
 @@||udomain.dl.sourceforge.net^$important
@@ -1314,12 +1329,14 @@
 @@||update.appwork.org^$important
 @@||update.bitsum.com^$important
 @@||update.code.visualstudio.com^$important
+@@||update.code.visualstudio.com^$important
 @@||update.cyberduck.io^$important
 @@||update.microsoft.com^$important
 @@||update.videolan.org^$important
 @@||updates-cdn.bravesoftware.com^$important
 @@||updates.bravesoftware.com^$important
 @@||updates.push.services.mozilla.com^$important
+@@||updatesnl.macrium.com^$important
 @@||upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net^$important
 @@||uplaypc-s-ubisoft.cdn.ubi.com^$important
 @@||upload.vimeo.com^$important
@@ -1349,6 +1366,7 @@
 @@||visualstudio.com^$important
 @@||vortex.data.microsoft.com^$important
 @@||vporn.com^$important
+@@||vscode-sync.trafficmanager.net^$important
 @@||vscode-sync.trafficmanager.net^$important
 @@||wallet.ecom.ubi.com^$important
 @@||wcpstatic.microsoft.com^$important
@@ -1389,4 +1407,5 @@
 @@||youtube.com^$important
 @@||youtubei.googleapis.com^$important
 @@||yt3.ggpht.com^$important
+@@||zenz-solutions.de^$important
 @@||zerossl.ocsp.sectigo.com^$important
