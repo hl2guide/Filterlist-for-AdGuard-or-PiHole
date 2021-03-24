@@ -290,7 +290,6 @@
 @@||cast.netflix.com^$important
 @@||cast.soundcloud.com^$important
 @@||catalog.gamepass.com^$important
-@@||catalog.gamepass.com^$important
 @@||cdn-images.xda-developers.com^$important
 @@||cdn-pics.pornhd.com^$important
 @@||cdn-pics.pornhdprime.com^$important
@@ -327,7 +326,6 @@
 @@||chatenabled.mail.google.com^$important
 @@||chatlounge-preview.xbox.com^$important
 @@||chbusiness.samsung.com^$important
-@@||checkappexec.microsoft.com^$important
 @@||checkappexec.microsoft.com^$important
 @@||checkout.soundcloud.com^$important
 @@||checkout.stripe.com^$important
@@ -1329,7 +1327,6 @@
 @@||update.appwork.org^$important
 @@||update.bitsum.com^$important
 @@||update.code.visualstudio.com^$important
-@@||update.code.visualstudio.com^$important
 @@||update.cyberduck.io^$important
 @@||update.microsoft.com^$important
 @@||update.videolan.org^$important
@@ -1366,7 +1363,6 @@
 @@||visualstudio.com^$important
 @@||vortex.data.microsoft.com^$important
 @@||vporn.com^$important
-@@||vscode-sync.trafficmanager.net^$important
 @@||vscode-sync.trafficmanager.net^$important
 @@||wallet.ecom.ubi.com^$important
 @@||wcpstatic.microsoft.com^$important
