@@ -1,0 +1,43 @@
+# Template:
+# /(.*)======(s\b|\b)(.*)/
+
+# ======= PRIVACY =======
+# [A1] Tracking and Stats
+/(.*)(cookie|pixel|stat|telemetry|tracker|pixel|analytic|metric)(s\b|\b)(.*)/
+/(.*)(tracking|xiaomi)(s\b|\b)(.*)/
+# [A2] Pseudoscience
+/(.*)(healingcrystal|healing\-crystal|ritual|worship|tithe|healingwater)(s\b|\b)(.*)/
+
+# ======= SCAM PREVENTION =======
+# [B1] Scams
+/(.*)(g2a)(.*)/
+
+# ======= BANNED =======
+
+# [C1] Banned Words
+/(.*)(chatroom|cheat|drug|casino|liveshow|weapon|coin)(s\b|\b)(.*)/
+# [C2] Horrible Words
+/(.*)(rape|forcedsex|animalsex|bestiality|beastsex|monstersex|zoosex|snuff)(s\b|\b)(.*)/
+/(.*)(death|kill|murder|incest)(s\b|\b)(.*)/
+/(.*)(pedophilia|necrophilia|incapacitatedsex|blood|mutilation)(s\b|\b)(.*)/
+
+# Regex Testing ==================================
+
+# Blocks all insecure HTTP traffic
+/http\:/
+
+# Blocks timewasting websites
+/(ausgamers|kotaku|digg|lifehacker)/
+
+# Blocks banned words
+/(hardcore|fuck|shit|cunt|jizz)/
+
+# Blocks some coinmining websites
+/(coinmin)/
+
+# Blocks ads
+/(ad(service|sdk|vert|serv|s))/
+/(banner|doubleclick|groovinads|liveadvert|popupad)/
+
+# Blocks junk
+/(fashion|perfume|celebrity|tiktok|pushnami)/

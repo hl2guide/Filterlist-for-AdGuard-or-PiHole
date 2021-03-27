@@ -1,0 +1,3 @@
+# ======= SOCIAL MEDIA =======
+/(.*)(twitter|facebook|myspace|instagram|linkedin|snapchat|tinder|tumbler)(.*)/
+/(.*)(vk|weibo|reddit|pinterest|ask\.fm|tumblr|flickr|meetup)(.*)/
