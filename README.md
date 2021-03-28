@@ -1,4 +1,4 @@
-# Filterlist for AdGuard 2.57 🖥💟🛡
+# Filterlist for AdGuard 2.58 🖥💟🛡
 
 💚 This repo is actively maintained and updates about twice per day
 
@@ -6,13 +6,13 @@
 
 ## About ℹ
 
-This is a very aggressive filter-list that consolidates over __330 lists__ for use in
+This is a very aggressive filter-list that consolidates over __340 lists__ for use in
 AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
 * It includes the AdGuard's official **AdGuardSDNSFilter**
 * It is cleaned, sorted, with duplicates removed
 
-### Latest News (March 27th, 2021)
+### Latest News (March 28th, 2021)
 
 * Please check that you've added a third and fourth part of the blocklist to AdGuard Home as per the
 [usage page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/USAGE.md).
