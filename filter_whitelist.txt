@@ -90,6 +90,7 @@
 @@||adl.windows.com^$important
 @@||adult.com^$important
 @@||affiliate.twitch.tv^$important
+@@||airtable.com^$important
 @@||aka.ms^$important
 @@||akadns.net^$important
 @@||akamai.net^$important
@@ -571,6 +572,7 @@
 @@||eur02.safelinks.protection.outlook.com^$important
 @@||eur03.safelinks.protection.outlook.com^$important
 @@||eur04.safelinks.protection.outlook.com^$important
+@@||evcs-ocsp.ws.symantec.com^$important
 @@||evernote.com^$important
 @@||evoke-windowsservices-tas.msedge.net^$important
 @@||f-droid.org^$important
@@ -972,9 +974,11 @@
 @@||ocsp.digicert.com^$important
 @@||ocsp.globalsign.com^$important
 @@||ocsp.godaddy.com^$important
+@@||ocsp.msocsp.com^$important
 @@||ocsp.pki.goog^$important
 @@||ocsp.sca1b.amazontrust.com^$important
 @@||ocsp.sectigo.com^$important
+@@||ocsp.thawte.com^$important
 @@||ocsp.usertrust.com^$important
 @@||ocsp.verisign.com^$important
 @@||ocsp*.globalsign.com^$important
@@ -1261,6 +1265,7 @@
 @@||storecatalogrevocation.storequality.microsoft.com^$important
 @@||storeedgefd.dsx.mp.microsoft.com^$important
 @@||styles.redditmedia.com^$important
+@@||supervisor.ext-twitch.tv^$important
 @@||suporte.br.playstation.com^$important
 @@||support.asia.playstation.com^$important
 @@||support.cloudflare.com^$important
@@ -1383,7 +1388,7 @@
 @@||wordpress.com^$important
 @@||wordpress.org^$important
 @@||wt.soundcloud.com^$important
-@@||msftconnecttest.com^$important
+@@||wtfismyip.com^$important
 @@||www91.intel.com.au^$important
 @@||xbox.com^$important
 @@||xbox.ipv6.microsoft.com^$important
