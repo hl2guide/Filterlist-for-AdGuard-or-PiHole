@@ -12,7 +12,7 @@ This is a very aggressive filter-list that consolidates over __340 lists__.
 |--|--|--|
 | AdGuard Home | [official site](https://adguard.com/en/adguard-home/overview.html) | [source code](https://github.com/AdguardTeam/AdguardHome) |
 | Pi-Hole | [official site](https://pi-hole.net) | [source code](https://github.com/pi-hole/pi-hole) |
-| DNS Proxy | [official site](https://dnscrypt.info)  | [source code](https://github.com/DNSCrypt/dnscrypt-proxy) |
+| DNSCrypt Proxy | [official site](https://dnscrypt.info)  | [source code](https://github.com/DNSCrypt/dnscrypt-proxy) |
 | SecureDNS | none | [source code](https://github.com/Texnomic/SecureDNS) |
 
 ## Features
