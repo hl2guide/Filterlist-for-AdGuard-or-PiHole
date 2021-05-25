@@ -1,4 +1,8 @@
-# Usage
+# Other Supported Software
+
+For Pi-Hole, DNSCrypt Proxy or SecureDNS configuration please refer to their official documentation and then add blocklists and then the whitelist.
+
+# Usage for AdGuard Home
 
 Check that you are using __AdGuard Home v0.106.3__ or later
 (vital functionality was hotfixed).
