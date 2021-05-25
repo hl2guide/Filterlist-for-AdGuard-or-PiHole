@@ -1,6 +1,6 @@
 # Other Supported Software
 
-For Pi-Hole, DNSCrypt Proxy or SecureDNS configuration please refer to their official documentation and then add blocklists and then the whitelist.
+For Pi-Hole, DNSCrypt Proxy or SecureDNS configuration please refer to their official documentation and then add blocklists and then the whitelist. see [lists](https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/blob/master/USAGE.md#lists-).
 
 # Usage for AdGuard Home
 
