@@ -43,7 +43,6 @@ https://openphish.com/feed.txt
 https://orca.pet/notonmyshift/domains.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
-https://raw.blocklist.vsnz.net/
 https://raw.githubusercontent.com/ADsecu/black-domains/master/domain_hosts.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/cryptomine.txt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt
@@ -246,7 +245,6 @@ https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/Zeus%20-%20M
 https://raw.githubusercontent.com/eternnoir/pihole-regex.list/master/regex.list
 https://raw.githubusercontent.com/evpne/socialblocklists/master/Skype/skypeblocklist.txt
 https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/stopforumspam_30d.ipset
-https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/apple-macos-big-sur.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/avg-avast-data-mining-full-block.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/facebook-full-block.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/hola-luminati-full-block.txt
@@ -259,15 +257,15 @@ https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/tiktok-ful
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/whatsapp-full-block.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/windows10-spying-erm-i-mean-telemetry-lol.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/xiaomi-ads-tracking.txt
+https://raw.githubusercontent.com/furkun/ProtectorHosts/main/hosts
 https://raw.githubusercontent.com/gasull/adblock-nsa/master/filters.txt
 https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt
 https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt
 https://raw.githubusercontent.com/gyli/Blocklist/master/BLOCKLIST
 https://raw.githubusercontent.com/hell-sh/Evil-Domains/master/evil-domains.txt
-https://raw.githubusercontent.com/hemiipatu/Blocklists/master/advertisement.txt
-https://raw.githubusercontent.com/hemiipatu/Blocklists/master/phishing.txt
-https://raw.githubusercontent.com/hemiipatu/Blocklists/master/ransomware.txt
-https://raw.githubusercontent.com/hemiipatu/Blocklists/master/scam.txt
+https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/advertisement.txt
+https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/phishing.txt
+https://raw.githubusercontent.com/hemiipatu/PiHoleBlocklists/master/blocklists/scam.txt
 https://raw.githubusercontent.com/herrbischoff/trackers/master/trackers.txt
 https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Modules/privacybadger_sourced_blocklist.txt
 https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Modules/typosquatting_blocklist.txt
@@ -333,6 +331,8 @@ https://raw.githubusercontent.com/Strappazzon/teleme7ry/master/rules.txt
 https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt
 https://raw.githubusercontent.com/Th3M3/blocklists/master/tracking%26ads.list
 https://raw.githubusercontent.com/TonyRL/blocklist/master/hosts
+https://raw.githubusercontent.com/twcau/AdblockRules/master/CustomSonyTVList
+https://raw.githubusercontent.com/twcau/AdblockRules/master/MurdochList
 https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/Spotify.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Cerber_Ransomware.txt
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt
