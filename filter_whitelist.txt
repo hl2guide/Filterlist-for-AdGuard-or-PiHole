@@ -697,6 +697,7 @@ greasyfork.org
 groups.google.com
 gs.apple.com
 gstatic.com
+gstatic.com
 guardianproject.gitlab.io
 guardianproject.info
 gumtree.com
