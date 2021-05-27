@@ -1142,6 +1142,7 @@ rpg.twitch.tv
 s.youtube.com
 s.ytimg.com
 s2.youtube.com
+s3.amazonaws.com
 s334284386.t.eloqua.com
 s82i.app.link
 salesforce.com
