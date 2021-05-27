@@ -56,8 +56,9 @@ Must read vital notes and details :
 Setup and usage :
 [usage page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/USAGE.md).
 
-## Latest News (May 20th, 2021)
+## Latest News (May 27th, 2021)
 
+* The whitelist is in flux. More manual unblocking may be required.
 * This repo is now over 1 year old! 🎉
 * Please note that __2.60__ is _in development_ but has been delayed until around August 2021
 * Please check that you've added a third and fourth part of the blocklist to AdGuard Home as per the
