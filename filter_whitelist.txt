@@ -1,3 +1,4 @@
+
 _dnsaddr.bootstrap.libp2p.io
 _dnsaddr.ipfs.lubar.me
 .l.google.com
@@ -1469,6 +1470,8 @@ xkms.xboxlive.com
 xsts.auth.xboxlive.com
 xvideos-cdn.com
 xvideos.com
+yahoo.com
+yelp.com
 yimg.com
 youpornpremium.com
 youtu.be
