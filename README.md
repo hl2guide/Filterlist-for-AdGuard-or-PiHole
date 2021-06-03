@@ -45,15 +45,10 @@ This repository focuses on the following overall tenants:
 * Does __not__ block websites of an "adult nature"
     * _Provides Personal Freedom_
 
-## About 📚
+## More 📚
 
-Must read vital notes and details :
-[about page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/ABOUT.md).
-
-## Usage 📐
-
-Setup and usage :
-[usage page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/USAGE.md).
+* [about page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/ABOUT.md) - Must read vital notes and details
+* [usage page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/USAGE.md) - Setup and usage
 
 ## Latest News (June 4th, 2021)
 
