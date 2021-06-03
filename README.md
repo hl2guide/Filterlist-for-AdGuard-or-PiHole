@@ -10,14 +10,13 @@ This is a very aggressive filter-list that consolidates over __340 lists__.
 
 | Supported Software | Official Site | Source Code |
 |--|--|--|
-| AdGuard Home | [official site](https://adguard.com/en/adguard-home/overview.html) | [source code](https://github.com/AdguardTeam/AdguardHome) |
-| Pi-Hole | [official site](https://pi-hole.net) | [source code](https://github.com/pi-hole/pi-hole) |
-| DNSCrypt Proxy | [official site](https://dnscrypt.info)  | [source code](https://github.com/DNSCrypt/dnscrypt-proxy) |
-| SecureDNS | none | [source code](https://github.com/Texnomic/SecureDNS) |
+| 🛡 AdGuard Home | [official site](https://adguard.com/en/adguard-home/overview.html) | [source code](https://github.com/AdguardTeam/AdguardHome) |
+| 🕳 Pi-Hole | [official site](https://pi-hole.net) | [source code](https://github.com/pi-hole/pi-hole) |
+| 🕵️‍♀️ DNSCrypt Proxy | [official site](https://dnscrypt.info)  | [source code](https://github.com/DNSCrypt/dnscrypt-proxy) |
+| 🔐 SecureDNS | none | [source code](https://github.com/Texnomic/SecureDNS) |
 
 ## Features
 
-* Compatible with __AdGuard Home__ and __Pi-Hole__
 * Purely contains only domains and IP addresses (as of v2.57)
 * Is cleaned, sorted, with duplicates removed
 * Is not "set and forget"
@@ -56,11 +55,11 @@ Must read vital notes and details :
 Setup and usage :
 [usage page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/USAGE.md).
 
-## Latest News (May 27th, 2021)
+## Latest News (June 4th, 2021)
 
 * The whitelist is in flux. More manual unblocking may be required.
 * This repo is now over 1 year old! 🎉
-* Please note that __2.60__ is _in development_ but has been delayed until around August 2021
+* Please note that __2.60__ is _in development_ but has been delayed until around September 2021
 * Please check that you've added a third and fourth part of the blocklist to AdGuard Home as per the
 [usage page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/USAGE.md).
 
