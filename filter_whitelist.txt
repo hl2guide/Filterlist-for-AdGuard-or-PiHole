@@ -1483,3 +1483,4 @@ youtubei.googleapis.com
 yt3.ggpht.com
 zenz-solutions.de
 zerossl.ocsp.sectigo.com
+cfos.de
