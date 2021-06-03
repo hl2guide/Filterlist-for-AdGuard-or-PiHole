@@ -52,6 +52,7 @@ This repository focuses on the following overall tenants:
 
 ## Latest News (June 4th, 2021)
 
+* I've improved documentation to be thorough
 * The whitelist is in flux. More manual unblocking may be required.
 * This repo is now over 1 year old! 🎉
 * Please note that __2.60__ is _in development_ but has been delayed until around September 2021
