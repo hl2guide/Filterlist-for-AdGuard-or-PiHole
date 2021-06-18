@@ -17,10 +17,11 @@ This is a very aggressive filter-list that consolidates over __[340 lists](#filt
 
 ## Features
 
-* Purely contains only domains and IP addresses (as of v2.57)
-* Cleaned, sorted, with duplicates removed
-* Not "set and forget"
 * Includes AdGuard's official **AdGuardSDNSFilter**
+* Contains only domains (some with wildcards) and IP addresses (as of v2.57)
+* Cleaned, sorted, with duplicates removed
+* Updates about every 12 hours
+* Not "set and forget"
 
 ## What it Blocks 👁‍
 

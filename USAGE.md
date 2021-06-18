@@ -95,4 +95,4 @@ I personally also use [SimpleWall](https://www.henrypp.org/product/simplewall) t
 
 # Windows 10 Antispy Tool 🕵️‍♀️
 
-If you use Windows 10, please use [O&O ShutUp10](https://www.oo-software.com/en/shutup10) to disable spying features intially and then after each major update.
+If you use Windows 10, please use [O&O ShutUp10](https://www.oo-software.com/en/shutup10) to disable spying features initially and then after each major update.
