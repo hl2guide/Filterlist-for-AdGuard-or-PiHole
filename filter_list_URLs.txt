@@ -41,11 +41,6 @@ https://orca.pet/notonmyshift/domains.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://phishing.army/download/phishing_army_blocklist.txt
 https://raw.githubusercontent.com/ADsecu/black-domains/master/domain_hosts.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/cryptomine.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/gamefake.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/jbfake.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
-https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/other.txt
 https://raw.githubusercontent.com/AlexRabbit/ADios/master/hosts
 https://raw.githubusercontent.com/allendema/noplaylist/main/NoPlayList.txt
 https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Ads%20and%20trackers.txt
