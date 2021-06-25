@@ -1038,6 +1038,7 @@ ocsp.usertrust.com
 ocsp.verisign.com
 odc.officeapps.live.com
 odinvzc.azureedge.net
+odysee.com
 office.com
 office.net
 office365.com
