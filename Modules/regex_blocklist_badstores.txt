@@ -1,0 +1,2 @@
+# Blocks stores that are unethical and bad for the earth
+/^(aliexpress|amazon|apple|ebay|walmart)\.)/
