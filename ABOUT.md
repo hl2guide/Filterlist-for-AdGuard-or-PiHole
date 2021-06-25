@@ -22,5 +22,7 @@ then create an issue.
 
 # Request Forms
 
-* [Blacklist Request Form](https://docs.google.com/forms/d/1NrlR3yddEWhIkmKXV8VamBVka6SX7DLHX_WgpsqrtbE)
-* [Whitelist Request Form](https://docs.google.com/forms/d/1mobsqVCIky61tHy13fFyGZBxdbjUmTi3EFkvvhoGIHg)
+I now use TypeForm instead of Google Forms:
+
+* [Blacklist Request Form](https://894zsr7opoy.typeform.com/to/ZnbAtIr1)
+* [Whitelist Request Form](https://894zsr7opoy.typeform.com/to/JT5K0ezB)
