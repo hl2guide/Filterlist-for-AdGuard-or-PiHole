@@ -99,6 +99,7 @@ adl.windows.com
 adult.com
 affiliate.twitch.tv
 airtable.com
+ajax.aspnetcdn.com
 aka.ms
 akadns.net
 akamai.net
@@ -417,6 +418,7 @@ contactus.samsung.com
 content.cloudflare.com
 content.googleapis.com
 content.hulu.com
+continuum.dds.microsoft.com
 controllers.xbox.com
 controls.platform.account.www.microsoft.com
 copyright.help.soundcloud.com
@@ -1213,6 +1215,7 @@ seedr.cc
 self.events.data.microsoft.com
 service.weather.microsoft.com
 services.gfe.nvidia.com
+settings-ssl.xboxlive.com
 settings-win.data.microsoft.com
 settings.data.microsoft.com
 settings.live.net
@@ -1306,6 +1309,7 @@ static1.makeuseofimages.com
 staticcdn.duckduckgo.com
 staticdelivery.nexusmods.com
 statics-*.onestore.ms
+statics-storeexp-eas-ms-com.akamaized.net
 statics.cdntrex.com
 staticstats.nexusmods.com
 status.discord.com
@@ -1420,6 +1424,7 @@ ubisoft-orbit-savegames.s3.amazonaws.com
 ubistatic*-a.akamaihd.net
 udomain.dl.sourceforge.net
 ugc.api.playstation.com
+uhf.microsoft.com
 ul.to
 up*.debrid.link
 up.raindrop.io
@@ -1496,6 +1501,7 @@ www.dsogaming.com
 www.github.developerdan.com
 www.gstatic.com
 www.kmart.com.au
+www.msn.com
 www.pornhub.com
 www.target.com.au
 www.twitch.tv
