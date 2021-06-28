@@ -7,7 +7,6 @@ https://cdn.jsdelivr.net/gh/bmyjacks/adlists@latest/filter-registry/anti-AD.txt
 https://curben.gitlab.io/malware-filter/urlhaus-filter-ag-online.txt
 https://curben.gitlab.io/phishing-filter-mirror/phishing-filter-agh.txt
 https://dbl.oisd.nl/
-https://fluffy-blocklist.skcat.tk/domains
 https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/just-IPs.txt
 https://github.com/j-moriarti/pDNSf-Hosts-collection/releases/download/v1.0.0/Wildcards.txt
 https://github.com/missdeer/blocklist/blob/master/toblock-without-shorturl.lst?raw=true
@@ -304,6 +303,7 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Shock
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Typo
+https://raw.githubusercontent.com/sk-cat/fluffy-blocklist/main/domains
 https://raw.githubusercontent.com/smashah/smashblock/master/blocklist.txt
 https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/all.txt
 https://raw.githubusercontent.com/sophoslabs/covid-iocs/master/malware_domains.txt
