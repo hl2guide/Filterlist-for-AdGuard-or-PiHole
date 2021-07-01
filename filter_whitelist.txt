@@ -1,10 +1,14 @@
+_dnsaddr.bootstrap.libp2p.io
+_dnsaddr.ipfs.lubar.me
+.l.google.com
+.soundcloud.com
 *-ebgames.eb-cdn.com.au
+*._dns-sd._udp.*.in-addr.arpa
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
 *.*.storage.live.com
 *.*.storage.msn.com
-*._dns-sd._udp.*.in-addr.arpa
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
@@ -48,8 +52,6 @@
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
-.l.google.com
-.soundcloud.com
 0.client-channel.google.com
 0.gravatar.com
 0.wikipedia.com
@@ -62,8 +64,6 @@
 2.au.download.windowsupdate.com
 22pixx.xyz
 4shared.com
-_dnsaddr.bootstrap.libp2p.io
-_dnsaddr.ipfs.lubar.me
 a.idio.co
 a.nel.cloudflare.com
 a48823c7ec3cf4539564-60c534a1284a12ce74ef84032e9b4e46.ssl.cf1.rackcdn.com
@@ -120,6 +120,7 @@ alternativeto.net
 amd.com
 android.clients.google.com
 answers.microsoft.com
+answersstaticfilecdnv2.azureedge.net
 aomeitech.com
 apache.org
 api-auth.soundcloud.com
@@ -243,6 +244,7 @@ bbc.co.uk
 bbc.com
 behindthevoiceactors.com
 beige.xboxservices.com
+bethesda.net
 bigw.com.au
 bing.at
 bing.ch
@@ -319,6 +321,7 @@ cdn-static-cf.pornhd.com
 cdn.chocolatey.org
 cdn.cloudflare.net
 cdn.cloudflare.steamstatic.com
+cdn.contentful.com
 cdn.discordapp.com
 cdn.flowplayer.com
 cdn.fwupd.org
@@ -456,8 +459,8 @@ cy.wikipedia.com
 cy2.settings.data.microsoft.com.akadns.net
 cyberdrop.me
 cz.wikipedia.com
-d*.debrid.link
 d.dropbox.com
+d*.debrid.link
 d3aqoihi2n8ty8.cloudfront.net
 da.xboxservices.com
 daisy.ubuntu.com
@@ -1025,7 +1028,6 @@ o.xbox.com
 oapi.opalsystems.com.au
 oauth.live.com
 oca-api.netflix.com
-ocsp*.globalsign.com
 ocsp.comodoca.com
 ocsp.comodoca4.com
 ocsp.digicert.com
@@ -1038,6 +1040,7 @@ ocsp.sectigo.com
 ocsp.thawte.com
 ocsp.usertrust.com
 ocsp.verisign.com
+ocsp*.globalsign.com
 odc.officeapps.live.com
 odinvzc.azureedge.net
 odysee.com
@@ -1271,10 +1274,6 @@ stackexchange.com
 stackoverflow.com
 staging.plex.tv
 standardnotes.org
-static*.behindthevoiceactors.com
-static*.brave.com
-static*.cdn.ubi.com
-static*.ubi.com
 static-*-cdn.eporner.com
 static-assets-prod.epicgames.com
 static-assets-prod.unrealengine.com
@@ -1305,10 +1304,15 @@ static.twitchcdn.net
 static.wikia.nocookie.net
 static.wixstatic.com
 static.zdassets.com
+static*.behindthevoiceactors.com
+static*.brave.com
+static*.cdn.ubi.com
+static*.ubi.com
 static1.makeuseofimages.com
 staticcdn.duckduckgo.com
 staticdelivery.nexusmods.com
 statics-*.onestore.ms
+statics-marketingsites-wcus-ms-com.akamaized.net
 statics-storeexp-eas-ms-com.akamaized.net
 statics.cdntrex.com
 staticstats.nexusmods.com
@@ -1426,8 +1430,8 @@ udomain.dl.sourceforge.net
 ugc.api.playstation.com
 uhf.microsoft.com
 ul.to
-up*.debrid.link
 up.raindrop.io
+up*.debrid.link
 upchk.api.playstation.com
 update.appwork.org
 update.bitsum.com
@@ -1450,6 +1454,8 @@ us.playstation.com
 use.fontawesome.com
 use.typekit.net
 user-images.githubusercontent.com
+userpresence.xboxlive.com
+userstats.xboxlive.com
 usher.ttvnw.net
 v20.events.data.microsoft.com
 variations.brave.com
