@@ -1,4 +1,3 @@
-
 # Notes 📒
 
 The below information relates to what I personally use and recommend people consider using.
@@ -50,6 +49,16 @@ Type | Link (URL)
 🛑 Blocklist (2 of 4) | [filter_blocklist2.txt](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Blocklist/filter_blocklist2.txt)
 🛑 Blocklist (3 of 4) | [filter_blocklist3.txt](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Blocklist/filter_blocklist3.txt)
 🛑 Blocklist (4 of 4) | [filter_blocklist4.txt](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Blocklist/filter_blocklist4.txt)
+
+### Optional Modular Whitelists
+
+These are additional whitelist modules that are only recommended if you use the specific products on your network.
+
+Whitelist | Link (URL)
+--------- | ----------
+Apple | [whitelist_for_apple.txt](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Whitelist-Modules/whitelist_for_apple.txt)
+Microsoft Windows 10 | [whitelist_for_microsoft_windows_10.txt](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Whitelist-Modules/whitelist_for_microsoft_windows_10.txt)
+Microsoft OneDrive | [whitelist_for_microsoft_onedrive.txt](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/Whitelist-Modules/whitelist_for_microsoft_onedrive.txt)
 
 ## Filters Update Interval ⏱
 
