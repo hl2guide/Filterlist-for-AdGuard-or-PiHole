@@ -1,0 +1,17 @@
+# Whitelists all endpoints (domains) for EBay
+# See: https://www.netify.ai/resources/applications/ebay
+ebay-us.com
+ebay.be
+ebay.ca
+ebay.co.jp
+ebay.co.uk
+ebay.com
+ebay.com.au
+ebay.com.my
+ebay.fr
+ebaycdn.net
+ebaydesc.com
+ebayimg.com
+ebayrtm.com
+ebaystatic.com
+ebaystratus.com

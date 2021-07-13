@@ -1,0 +1,6 @@
+# Whitelists all endpoints (domains) for Symantec
+# See: https://www.netify.ai/resources/applications/symantec
+symantec.com
+symantec.net
+symantecliveupdate.com
+symcd.com

@@ -1,0 +1,6 @@
+# Whitelists all endpoints (domains) for Wallmart
+# See: https://www.netify.ai/resources/applications/walmart
+walmart.ca
+walmart.com
+walmart.com.mx
+walmartimages.com

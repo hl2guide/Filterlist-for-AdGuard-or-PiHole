@@ -1,0 +1,6 @@
+# Whitelists all endpoints (domains) for Square Space
+# See: https://www.netify.ai/resources/applications/squarespace
+sqspcdn.com
+squarespace-cdn.com
+squarespace-mail.com
+squarespace.com

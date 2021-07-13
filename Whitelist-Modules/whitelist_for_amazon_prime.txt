@@ -1,0 +1,11 @@
+# Whitelists all endpoints (domains) for Amazon Video
+# See: https://www.netify.ai/resources/applications/amazon-prime
+aiv-cdn.net
+aiv-delivery.net
+amazonvideo.com
+atv-ext-eu.amazon.com
+atv-ext-fe.amazon.com
+atv-ext.amazon.com
+atv-ps.amazon.com
+primevideo.com
+pv-cdn.net

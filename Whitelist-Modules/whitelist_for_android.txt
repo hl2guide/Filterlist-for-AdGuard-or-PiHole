@@ -1,0 +1,9 @@
+# Whitelists all endpoints (domains) for Android
+# See: https://www.netify.ai/resources/applications/android
+android.clients.google.com
+android.com
+android.googleapis.com
+play-fe.googleapis.com
+play-lh.googleusercontent.com
+play.google.com
+play.googleapis.com

@@ -1,0 +1,10 @@
+# Whitelists all endpoints (domains) for Microsoft Teams
+# See: https://www.netify.ai/resources/applications/teams
+api.teams.skype.com
+img.teams.skype.com
+teams.cdn.office.net
+teams.events.data.microsoft.com
+teams.microsoft.com
+teams.microsoft.us
+teams.skype.com
+teams.trafficmanager.net

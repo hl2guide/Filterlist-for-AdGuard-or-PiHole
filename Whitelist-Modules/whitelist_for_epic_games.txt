@@ -1,0 +1,6 @@
+# Whitelists all endpoints (domains) for Epic Games
+# See: https://www.netify.ai/resources/applications/epic-games
+epicgames.com
+epicgames.dev
+epicgames.net
+unrealengine.com

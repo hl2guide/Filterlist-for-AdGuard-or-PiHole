@@ -1,0 +1,8 @@
+# Whitelists all endpoints (domains) for Steam
+# See: https://www.netify.ai/resources/applications/steam
+steamcommunity.com
+steamcontent.com
+steampowered.com
+steamstatic.com
+steamusercontent.com
+valvesoftware.com
