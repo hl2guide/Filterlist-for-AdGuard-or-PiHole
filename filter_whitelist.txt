@@ -1571,3 +1571,6 @@ youtubei.googleapis.com
 yt3.ggpht.com
 zenz-solutions.de
 zerossl.ocsp.sectigo.com
+normandy.cdn.mozilla.net
+static-login.gog-statics.com
+static-media-prod-cdn.itsre-sumo.mozilla.net
