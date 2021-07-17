@@ -6,7 +6,7 @@
 
 ## Info ℹ
 
-This is a very aggressive filter-list that consolidates over __[340 lists](#filter-lists-%EF%B8%8F)__.
+This is a very aggressive filter-list that consolidates over __[370 lists](#filter-lists-%EF%B8%8F)__.
 
 | Supported Software | Official Site | Source Code |
 |--|--|--|
@@ -44,9 +44,9 @@ This repository focuses on the following overall tenants:
 
 | Tenant | Outcome |
 |--|--|
-| _Blocks Social Media_ | Blocks distractions, timewasters and nonsense on the internet |
+| _Blocks Social Media_ | Blocks distractions, time-wasters and nonsense on the internet |
 | _Blocks Trackers and Ads_ | Blocks privacy invading aspects of major services |
-| _Blocks Security Concerns_ | Blocks some corporation domains (adobe, xiaomi etc) |
+| _Blocks Security Concerns_ | Blocks some corporation domains (Adobe, Xiaomi etc) |
 | _Provides Personal Freedom_ | Does __not__ block websites of an "adult nature" |
 
 Please Note: Naturally this is a balancing act. At times this list will be more restrictive
