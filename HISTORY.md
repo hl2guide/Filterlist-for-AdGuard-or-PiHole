@@ -1,5 +1,12 @@
 Please Note: Also able to be read at https://github.com/hl2guide/Filterlist-for-AdGuard/releases
 
+v2.60
+ac39178
+
+2.60 - Modular Whitelists
+
+Release of additional modular whitelists.
+
 v2.59
 b1c9b40
 

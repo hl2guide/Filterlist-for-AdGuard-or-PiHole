@@ -1,4 +1,4 @@
-# Filterlist for AdGuard or Pi-Hole 2.60 🖥💟🛡
+# Filterlist for AdGuard or Pi-Hole 2.61 🖥💟🛡
 
 💚 This repository is actively maintained and updates about twice per day
 
@@ -59,9 +59,8 @@ Please configure a manual whitelist.
 * [about page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/ABOUT.md) - Must read vital notes and details
 * [usage page](https://github.com/hl2guide/Filterlist-for-AdGuard/blob/master/USAGE.md) - Setup and usage
 
-## Latest News (July 11th, 2021)
-* 2.60 is out but the nature of it has changed over time
-* 2.60 adds modular whitelists, with more to come soon
+## Latest News (July 18th, 2021)
+* 2.61 is out and adds more IP Address lists (IPSets)
 
 ## Credits ☺️
 
