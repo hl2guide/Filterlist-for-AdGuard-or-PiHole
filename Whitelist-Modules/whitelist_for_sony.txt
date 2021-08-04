@@ -1,0 +1,7 @@
+# Whitelists all endpoints (domains) for Sony
+# See: https://www.netify.ai/resources/applications/sony
+ndmdhs.com
+sony
+sony.com
+sony.net
+sonymusicfans.com

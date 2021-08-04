@@ -1,0 +1,6 @@
+# Whitelists all endpoints (domains) for ESET
+# See: https://www.netify.ai/resources/applications/eset
+e5.sk
+eset.com
+eset.eu
+eset.sk

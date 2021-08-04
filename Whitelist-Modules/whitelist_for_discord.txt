@@ -1,0 +1,8 @@
+# Whitelists all endpoints (domains) for Discord
+# See: https://www.netify.ai/resources/applications/discord
+discord.com
+discord.gg
+discord.media
+discordapp.com
+discordapp.net
+discordstatus.com

@@ -1,0 +1,5 @@
+# Whitelists all endpoints (domains) for F-Secure
+# See: https://www.netify.ai/resources/applications/f-secure
+f-secure.com
+f-secure.com.pl
+f-secure.net

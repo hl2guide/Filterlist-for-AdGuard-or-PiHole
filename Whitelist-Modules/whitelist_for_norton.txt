@@ -1,0 +1,5 @@
+# Whitelists all endpoints (domains) for Norton
+# See: https://www.netify.ai/resources/applications/norton
+norton.com
+nortoncdn.com
+nortonlifelock.com

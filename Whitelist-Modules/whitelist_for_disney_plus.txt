@@ -1,0 +1,6 @@
+# Whitelists all endpoints (domains) for Disney Plus
+# See: https://www.netify.ai/resources/applications/disney-plus
+disney-plus.net
+disneyplus.com
+dssott.com
+search-api-disney.bamgrid.com

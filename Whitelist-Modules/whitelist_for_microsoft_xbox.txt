@@ -1,0 +1,8 @@
+# Whitelists all endpoints (domains) for Microsoft XBox
+# See: https://www.netify.ai/resources/applications/xbox
+gamepass.com
+xboxab.com
+xboxab.net
+xboxlive.com
+xboxservices.com
+xbox.com

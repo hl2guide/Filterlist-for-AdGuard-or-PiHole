@@ -1,0 +1,8 @@
+# Whitelists all endpoints (domains) for Sophos
+# See: https://www.netify.ai/resources/applications/sophos
+darkbytes.io
+sophos.com
+sophos.net
+sophosupd.com
+sophosupd.net
+sophosxl.net

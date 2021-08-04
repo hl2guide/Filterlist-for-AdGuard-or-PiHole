@@ -1,0 +1,5 @@
+# Whitelists all endpoints (domains) for Sony Playstation
+# See: https://www.netify.ai/resources/applications/playstation
+playstation.com
+playstation.net
+sonyentertainmentnetwork.com
