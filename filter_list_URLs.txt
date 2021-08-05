@@ -300,6 +300,7 @@ https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-j
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/adguard.txt
 https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
+https://raw.githubusercontent.com/MarByteBeep/BlockNews/main/blocknews.txt
 https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/blocklist.txt
 https://raw.githubusercontent.com/merkleID/covid-domains/master/full-domains-list.txt
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt
@@ -369,6 +370,8 @@ https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/tracking-plus.
 https://sebsauvage.net/hosts/raw
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
 https://threatcrowd.org/feeds/domains.txt
+https://v.firebog.net/hosts/Admiral.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
 https://v.firebog.net/hosts/static/SamsungSmart.txt
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
