@@ -1988,3 +1988,9 @@
 @@|zenz-solutions.de^$important
 @@|zerossl.ocsp.sectigo.com^$important
 @@|zia.cdntrex.com^$important
+@@|accounts.firefox.com^$important
+@@|*.download.windowsupdate.com^$important
+@@|download.macrium.com^$important
+@@|go.eset.com^$important
+@@|elb-ore-gcp.nimbus.bitdefender.net^$important
+@@|data.product.lastpass.com^$important
