@@ -1,0 +1,5 @@
+# Whitelists all endpoints (domains) for Nintendo
+# See: https://www.netify.ai/resources/applications/nintendo
+nintendo.com
+nintendo.net
+nintendowifi.net

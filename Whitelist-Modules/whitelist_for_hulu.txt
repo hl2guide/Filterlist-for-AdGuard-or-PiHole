@@ -1,0 +1,8 @@
+# Whitelists all endpoints (domains) for Hulu
+# See: https://www.netify.ai/resources/applications/hulu
+hulu.com
+huluad.com
+huluim.com
+hulumail.com
+huluqa.com
+hulustream.com

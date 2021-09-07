@@ -1,0 +1,10 @@
+# Whitelists all endpoints (domains) for Mastercard
+# See: https://www.netify.ai/resources/applications/mastercard
+customercare-mastercard.my.salesforce.com
+mastercard.ca
+mastercard.co.in
+mastercard.com
+mastercard.com.au
+mastercard.int
+mastercard.us
+mastercardconnect.com

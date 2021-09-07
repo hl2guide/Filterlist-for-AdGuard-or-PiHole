@@ -1,0 +1,6 @@
+# Whitelists all endpoints (domains) for Dell
+# See: https://www.netify.ai/resources/applications/dell
+dell.com
+dell.com.br
+dellcdn.com
+dellsupportcenter.com

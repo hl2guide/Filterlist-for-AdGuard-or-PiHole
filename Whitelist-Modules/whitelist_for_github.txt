@@ -1,0 +1,8 @@
+# Whitelists all endpoints (domains) for GitHub
+# See: https://www.netify.ai/resources/applications/github
+ghcr.io
+github.com
+github.io
+githubapp.com
+githubassets.com
+githubusercontent.com

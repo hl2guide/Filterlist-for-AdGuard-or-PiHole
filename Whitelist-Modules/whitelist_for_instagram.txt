@@ -1,0 +1,5 @@
+@@||i.instagram.com^$important
+@@||scontent-*.cdninstagram.com^$important
+@@||scontent.cdninstagram.com^$important
+@@||graph.instagram.com^$important
+@@||instagram.*.facebook.com^$important

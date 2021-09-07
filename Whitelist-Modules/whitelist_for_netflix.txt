@@ -1,0 +1,9 @@
+# Whitelists all endpoints (domains) for Netflix
+# See: https://www.netify.ai/resources/applications/netflix
+netflix.com
+netflix.net
+nflxext.com
+nflximg.com
+nflximg.net
+nflxso.net
+nflxvideo.net

@@ -1,0 +1,5 @@
+# Whitelists all endpoints (domains) for SpeedTest
+# See: https://www.netify.ai/resources/applications/speedtest
+cdnst.net
+ooklaserver.net
+speedtest.net

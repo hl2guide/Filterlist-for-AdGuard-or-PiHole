@@ -1,0 +1,37 @@
+# Whitelists all endpoints (domains) for Linux Distros
+# See: https://www.netify.ai/resources/applications/arch-linux
+archlinux.org
+canonical.com
+centos.ca-west.mirror.fullhost.io
+centos.melbourneitmirror.net
+centos.mirror.colo-serv.net
+centos.mirror.garr.it
+centos.mirror.liquidtelecom.com
+centos.mirror.serversaustralia.com.au
+centos.mirrors.theom.nz
+centos.org
+centos.serverforge.org
+centos.vwtonline.net
+clearos.bhs.mirrors.ovh.net
+clearos.com
+clearos.mirrors.ovh.net
+clearos.uberglobalmirror.com
+clearsdn.com
+debian.map.fastlydns.net
+debian.org
+fedorapeople.org
+fedoraproject.org
+freebsd.org
+getfedora.org
+jboss.org
+launchpad.net
+linuxmint.com
+mirrorlist.centos.org
+opensuse.org
+redhat.com
+redhat.io
+snapcraft.io
+softwarecollections.org
+susecloud.net
+ubuntu.com
+virtualbox.org

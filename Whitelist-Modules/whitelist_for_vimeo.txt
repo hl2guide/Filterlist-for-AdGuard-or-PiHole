@@ -1,0 +1,4 @@
+# Whitelists all endpoints (domains) for Vimeo
+# See: https://www.netify.ai/resources/applications/vimeo
+vimeo.com
+vimeocdn.com

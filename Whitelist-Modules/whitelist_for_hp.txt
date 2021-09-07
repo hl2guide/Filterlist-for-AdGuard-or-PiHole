@@ -1,0 +1,7 @@
+# Whitelists all endpoints (domains) for HP
+# See: https://www.netify.ai/resources/applications/hp
+hp.com
+hp.net
+hpconnected.com
+hpe.com
+hpeprint.com

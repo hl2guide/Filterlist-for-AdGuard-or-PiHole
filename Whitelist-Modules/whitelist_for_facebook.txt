@@ -1,0 +1,13 @@
+@@||www.facebook.com^$important
+@@||connect.facebook.net^$important
+@@||edge-chat.facebook.com^$important
+@@||gateway.facebook.com^$important
+@@||edge-mqtt.facebook.com^$important
+@@||m.facebook.com^$important
+@@||fbcdn.net^$important
+@@||static.*.fbcdn.net^$important
+@@||scontent.*.fbcdn.net^$important
+@@||web.facebook.com^$important
+@@||star-mini.*.facebook.com^$important
+@@||star.*.facebook.com^$important
+@@||msgr-latest.*.facebook.com^$important
