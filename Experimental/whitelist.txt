@@ -253,6 +253,7 @@
 @@|audio-fa.spotify.com^$important
 @@|audio-sp.spotify.com^$important
 @@|auditrecording-pa.googleapis.com^$important
+@@|aus5.mozilla.org^$important
 @@|auspost.com.au^$important
 @@|auth.api.np.ac.playstation.net^$important
 @@|auth.freeones.com^$important
@@ -775,6 +776,7 @@
 @@|filterlists.com^$important
 @@|filters.adtidy.org^$important
 @@|fiona.cdntrex.com^$important
+@@|firefox.com^$important
 @@|fitgirl-repacks.site^$important
 @@|fluffy-blocklist.skcat.tk^$important
 @@|fontawesome-cdn.fonticons.netdna-cdn.com^$important
@@ -1923,6 +1925,8 @@
 @@|www.malwarebytes.com^$important
 @@|www.mediafire.com^$important
 @@|www.microsoft.com^$important
+@@|www.mozilla.org.cdn.cloudflare.net^$important
+@@|www.mozilla.org^$important
 @@|www.msn.com^$important
 @@|www.nexusmods.com^$important
 @@|www.nitroflare.com^$important
