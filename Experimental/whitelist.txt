@@ -396,6 +396,8 @@
 @@|cdn.cloudflare.steamstatic.com^$important
 @@|cdn.contentful.com^$important
 @@|cdn.cookielaw.org^$important
+@@|cdn.cyberdrop.me^$important
+@@|cdn.cyberdrop.to^$important
 @@|cdn.discordapp.com^$important
 @@|cdn.flowplayer.com^$important
 @@|cdn.freeones.com^$important
@@ -524,6 +526,7 @@
 @@|contile.services.mozilla.com^$important
 @@|continuum.dds.microsoft.com^$important
 @@|controllers.xbox.com^$important
+@@|controlpanel.newshosting.com^$important
 @@|controls.platform.account.www.microsoft.com^$important
 @@|copyright.help.soundcloud.com^$important
 @@|copyright.soundcloud.com^$important
@@ -702,6 +705,7 @@
 @@|ebgames.com.au^$important
 @@|ebill.sydneywater.com.au^$important
 @@|edge.microsoft.com^$important
+@@|edgechunked.cyberdrop.me^$important
 @@|edgestoreweb.azureedge.net^$important
 @@|editor.swagger.io^$important
 @@|eds.xboxlive.com^$important
@@ -941,6 +945,7 @@
 @@|hk.pool.ntp.org^$important
 @@|hls-hw.xvideos-cdn.com^$important
 @@|hls1-l3.xvideos-cdn.com^$important
+@@|hnd.stats.paypal.com^$important
 @@|home.hulu.com^$important
 @@|home.pl^$important
 @@|home.playstation.com^$important
@@ -1592,6 +1597,7 @@
 @@|speech.platform.bing.com^$important
 @@|speed.cloudflare.com^$important
 @@|speed4.snap.net.nz.prod.hosts.ooklaserver.net^$important
+@@|speedtest-syd.apac-tools.ovh.prod.hosts.ooklaserver.net^$important
 @@|speedtest-syd.launtel.net.au.prod.hosts.ooklaserver.net^$important
 @@|speedtest-syd.optusnet.com.au^$important
 @@|speedtest-syd.vocus.net.prod.hosts.ooklaserver.net^$important
@@ -1950,6 +1956,7 @@
 @@|www.hcaptcha.com^$important
 @@|www.henrypp.org^$important
 @@|www.hitmanpro.com^$important
+@@|www.howtogeek.com^$important
 @@|www.https-rulesets.org^$important
 @@|www.i-dont-care-about-cookies.eu^$important
 @@|www.inoreader.com^$important
@@ -1963,9 +1970,11 @@
 @@|www.mozilla.org.cdn.cloudflare.net^$important
 @@|www.mozilla.org^$important
 @@|www.msn.com^$important
+@@|www.newshosting.com^$important
 @@|www.nexusmods.com^$important
 @@|www.nitroflare.com^$important
 @@|www.nsw.gov.au^$important
+@@|www.nzb360.com^$important
 @@|www.oo-software.com^$important
 @@|www.patreon.com^$important
 @@|www.paypal.com^$important
