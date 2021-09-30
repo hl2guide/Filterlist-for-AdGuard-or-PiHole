@@ -1,0 +1,9 @@
+# Whitelists all endpoints (domains) for Twitch
+# See: https://www.netify.ai/resources/applications/twitch
+ext-twitch.tv
+jtvnw.net
+live-video.net
+ttvnw.net
+twitch.tv
+twitchcdn.net
+twitchsvc.net

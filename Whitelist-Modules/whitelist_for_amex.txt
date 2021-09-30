@@ -1,0 +1,4 @@
+# Whitelists all endpoints (domains) for American Express
+# See: https://www.netify.ai/resources/applications/american-express
+aexp-static.com
+americanexpress.com

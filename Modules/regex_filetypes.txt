@@ -1,0 +1,3 @@
+# Blocks file types
+/(.*).(aif|cda|mid|midi|mpa|wma|wpl|arj|z|dmg|toast|vcd|gadget)/
+/(.*).(wsf|fon|cfm|swift|vb|3g2|3gp|avi|flv|mov|rm|swf|vob|wmv)/

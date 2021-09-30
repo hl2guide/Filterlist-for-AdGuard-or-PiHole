@@ -1,0 +1,43 @@
+# START +=========================================================================================
+
+# 🧾 Name:      Strict List
+# 🚦  Status:    Experimental
+# ✍ Version:   0.11
+# 🚧 Build:     1101
+# 📅 Date:      Aug 27, 2021
+# 🕔 Time:      3:50 AM
+
+# 📔 Description:
+# Blocks and then whitelists using Adblock-Style Syntax, Regular Expressions, Special Characters
+# and Rule Modifiers.
+
+# 🗨 Only works in Adblock Home v0.106.3 or later
+
+# 🌐 Adguard Home Site: https://adguard.com/en/adguard-home/overview.html
+# 🌐 AdGuard Home Repo: https://github.com/AdguardTeam/AdGuardHome
+
+# Ref: https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style
+#      https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#regular-expressions
+       https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#rules-examples
+
+# ================================================================================================
+
+# 🛑 Blocks everything
+*.*
+
+# 🛑 Priority blocks all HTTP traffic (insecure links)
+||http://$important
+
+# ================================================================================================
+
+# 🔍 SEARCH ENGINES:
+
+# ✅ Whitelists search engines
+## @@|/(bing|google|duckduckgo|qwant|brave)\.com/$important
+
+# 📒 NOTES APPS:
+
+# ✅ Whitelists notes apps
+## @@|/(evernote\.com|standardnotes\.org)/$important
+
+# END ============================================================================================

@@ -1,0 +1,11 @@
+# Whitelists all endpoints (domains) for HBO
+# See: https://www.netify.ai/resources/applications/hbo
+hbo.com
+hbogo.co.th
+hbogo.com
+hbogo.eu
+hbogoasia.com
+hbogoasia.id
+hbogoasia.ph
+hbomax.com
+hbomaxcdn.com

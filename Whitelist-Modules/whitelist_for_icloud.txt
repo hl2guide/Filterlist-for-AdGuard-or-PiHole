@@ -1,0 +1,7 @@
+# Whitelists all endpoints (domains) for iCloud
+# See: https://www.netify.ai/resources/applications/apple-icloud
+apple-cloudkit.com
+icloud-content.com
+icloud.apple
+icloud.com
+icloud.com.cn

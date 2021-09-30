@@ -1,0 +1,8 @@
+# Whitelists all endpoints (domains) for Microsoft Sharepoint
+# See: https://www.netify.ai/resources/applications/sharepoint
+sharepoint-df.com
+sharepoint.com
+sharepointonline.com
+spo-msedge.net
+spoppe.com
+spoppe.com.dual-spo-0002.spo-msedge.net

@@ -1,0 +1,5 @@
+# Whitelists all endpoints (domains) for Stripe
+# See: https://www.netify.ai/resources/applications/stripe
+stripe.com
+stripe.network
+stripecdn.com

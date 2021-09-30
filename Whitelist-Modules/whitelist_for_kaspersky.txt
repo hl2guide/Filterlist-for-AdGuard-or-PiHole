@@ -1,0 +1,6 @@
+# Whitelists all endpoints (domains) for Kaspersky
+# See: https://www.netify.ai/resources/applications/kaspersky
+kas-labs.com
+kaspersky-labs.com
+kaspersky.com
+labkas.com

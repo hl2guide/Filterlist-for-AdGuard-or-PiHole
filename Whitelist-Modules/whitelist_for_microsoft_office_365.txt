@@ -1,0 +1,23 @@
+# Whitelists all endpoints (domains) for Microsoft Office 365
+# See: https://www.netify.ai/resources/applications/office-365
+assets-yammer.com
+client-office365-tas.msedge.net
+clo.footprintdns.com
+microsoftonline-p.com
+microsoftonline.com
+msocdn.com
+msocsp.com
+nrb.footprintdns.com
+o365filtering.com
+office.com
+office.de
+office.microsoft
+office.net
+office365.com
+office365.us
+officeapps.live.com
+officecdn.microsoft.com
+officeclient.microsoft.com
+onmicrosoft.com
+svc.ms
+yammer.com

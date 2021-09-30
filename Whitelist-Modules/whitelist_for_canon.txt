@@ -1,0 +1,11 @@
+# Whitelists all endpoints (domains) for Canon
+# See: https://www.netify.ai/resources/applications/canon
+c-ij.com
+c-wss.com
+canon
+canon.ca
+canon.com
+canon.jp
+canon.net
+global.canon
+ugwdevice.net

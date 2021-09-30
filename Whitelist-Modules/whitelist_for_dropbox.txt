@@ -1,0 +1,14 @@
+# Whitelists all endpoints (domains) for DropBox
+# See: https://www.netify.ai/resources/applications/dropbox
+db.tt
+dropbox-dns.com
+dropbox.com
+dropboxapi.com
+dropboxbusiness.com
+dropboxcaptcha.com
+dropboxforum.com
+dropboxforums.com
+dropboxpartners.com
+dropboxstatic.com
+dropboxusercontent.com
+getdropbox.com

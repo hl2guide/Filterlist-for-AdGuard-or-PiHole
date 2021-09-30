@@ -1,0 +1,30 @@
+@@||api.twitter.com^$important
+@@||api-stream.twitter.com^$important
+@@||ton.twitter.com^$important
+@@||abs.twimg.com^$important
+@@||pbs.twimg.com^$important
+@@||video.twimg.com^$important
+@@||i.instagram.com^$important
+@@||scontent-*.cdninstagram.com^$important
+@@||scontent.cdninstagram.com^$important
+@@||graph.instagram.com^$important
+@@||instagram.*.facebook.com^$important
+@@||www.facebook.com^$important
+@@||connect.facebook.net^$important
+@@||edge-chat.facebook.com^$important
+@@||gateway.facebook.com^$important
+@@||edge-mqtt.facebook.com^$important
+@@||m.facebook.com^$important
+@@||fbcdn.net^$important
+@@||static.*.fbcdn.net^$important
+@@||scontent.*.fbcdn.net^$important
+@@||web.facebook.com^$important
+@@||star-mini.*.facebook.com^$important
+@@||star.*.facebook.com^$important
+@@||msgr-latest.*.facebook.com^$important
+# Medium.com seems to be blanket blocked.
+@@||medium.com^$important
+@@||iosapps.itunes.g.aaplimg.com^$important
+@@||guzzoni.apple.com^$important
+# gsa.apple.com seems to be used for iCloud login, at least for their Windows client.
+@@||gsa.apple.com^$important
