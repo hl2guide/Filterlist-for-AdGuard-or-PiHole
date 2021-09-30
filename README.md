@@ -1,10 +1,10 @@
 # Filterlist for AdGuard or Pi-Hole 🖥💟🛡
 
-💚 This repository is actively maintained and updates about every six hours
+🧊 This repository is no longer maintained and is archived (no more commits)
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
-## Very Important News (as of September 21, 2021)
+## Very Important News (as of September 30, 2021)
 
 ⚠⚠⚠⚠⚠ℹℹℹℹℹ
 
@@ -21,13 +21,10 @@ What I've done:
 
 * ✅ modified the script to be more friendly and easier to run
 * ✅ open sourced the generator (PowerShell and Python based) for the public
+* ✅ commited up until September 30, 2021 and then stopped
+* ✅ archived it and will no longer commit to it (no more updates)
 
-What I'll do:
-
-* commit up until September 30, 2021 and then stop
-* I'll then archive it and will no longer commit to it (no more updates)
-
-My current assessment of this repo is that it:
+My assessment of this repo is that it:
 * is too large
 * has a wide hit-and-miss ratio
 * makes AdGuard Home use too much RAM
